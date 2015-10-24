@@ -5,6 +5,8 @@ pygtk.require('2.0')
 import gtk
 
 from keylogger import *
+import gobject
+gobject.threads_init()
 
 class Window:
     def _delete_event(self, widget, event, data=None):
@@ -56,9 +58,18 @@ class Window:
 
         self.window.show_all()
 
+        self.timer = gobject.timeout_add(3000, self.window.destroy)
     def main(self):
         gtk.main()
 
+if __name__ == '__main__':
+    now = time()
+    done = lambda: time() > now + 60
 
-win = Window()
-win.main()
+    def start_window(t, modifiers, keys):
+        if (modifiers["left alt"] == True) and (keys == '2'):
+            win = Window()
+            win.main()
+
+
+    log(done, start_window)
