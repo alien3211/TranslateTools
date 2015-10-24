@@ -24,6 +24,10 @@ class Window:
         keyname = gtk.gdk.keyval_name(event.keyval)
         self.tLabelTrans.set_text('key %s (%d) was pressed' % (keyname, event.keyval))
 
+    def set_data(self, translate, result):
+        self.tLabelSelect.set_text(translate)
+        self.tLabelTrans.set_text(result)
+
     def __init__(self):
         self.window = gtk.Window(gtk.WINDOW_TOPLEVEL)
         self.window.add_events(gtk.gdk.BUTTON_PRESS_MASK)
@@ -69,7 +73,7 @@ if __name__ == '__main__':
     def start_window(t, modifiers, keys):
         if (modifiers["left alt"] == True) and (keys == '2'):
             win = Window()
+            win.set_data(gtk.clipboard_get().wait_for_text(), gtk.clipboard_get().wait_for_text())
             win.main()
-
 
     log(done, start_window)
