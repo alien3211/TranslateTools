@@ -1,0 +1,23 @@
+The licensing statement releases the contents of the 
+dictionary by Tadeusz Piotrowski and Zygmunt Saloni 
+under GNU GPL 2.0 or later and [the intention, I 
+believe, was OR] GNU GFDL 1.2 or later, in the form 
+of:
+* TeX by the Authors, 
+* SGML by (possibly among others) Katarzyna Głowińska 
+  and Marcin Woliński, and
+* TEI P4 XML (which is not the TEI of the FreeDict 
+  project but an earlier conversion, not provided by FreeDict).
+
+This very package contains XML-ised SGML with IPA codes and UTF-8 
+that served as the basis for conversion to TEI XML in the FreeDict 
+project. It also contains some minor modifications described in the 
+notes.txt file and a list of entries lost in the TeX-to-SGML conversion.
+
+Piotr Bański, 29 May 2011.
+
+
+This copy is to be found at:
+https://sourceforge.net/projects/freedict/files/English%20-%20Polish/0.1/
+
+See also http://clip.ipipan.waw.pl/Nowy_slownik_angielsko-polski

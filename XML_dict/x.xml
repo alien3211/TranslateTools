@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE xbdict SYSTEM "xbdict.dtd">
+<xbdict>
+<entry>
+  <headword>
+    <spl>xenophobia</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌzenəˈfəʊbɪə</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ksenofobia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Xerox</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈzɪərɒks</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kserograf</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>odbitka kserograficzna</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kserografować</trans>
+        <trans>kserować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Xmas</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkrɪsməs, ˈeksməs</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>Christmas</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>Boże Narodzenie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>X-ray</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈeksreɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>promień rentgena</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>prześwietlenie rentgenowskie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zdjęcie rentgenowskie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>prześwietlać się promieniami rentgena</trans>
+        <trans>prześwietlać się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>xylophone</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈzaɪləfəʊn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ksylofon</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+</xbdict>

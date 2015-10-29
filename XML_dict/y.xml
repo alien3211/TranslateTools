@@ -1,0 +1,1862 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE xbdict SYSTEM "xbdict.dtd">
+<xbdict>
+<entry>
+  <headword>
+    <spl>yacht</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>jɒt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jacht</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yachting</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈjɒtɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>żeglarstwo</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Yank</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>jæŋk</phonetic>
+    </pronunciation>
+    <label>
+      <lang>BR</lang>
+    </label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Amerykaniec</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yank</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>jæŋk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wyszarpywać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Yankee</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈjæŋki:</phonetic>
+    </pronunciation>
+    <label>pejor</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jankes</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yap</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>jæp</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ujadać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>kłapać jadaczką</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yard</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>jɑ:d</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jard <i>91 cm</i></trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>podwórko</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zakład</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yardstick</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈjɑ:dstɪk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>miara</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yarn</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>jɑ:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nić</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>bajda</trans>
+        <trans>bajka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yawn</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>jɔ:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>ziewać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>lit</label>
+      </senseinfo>
+      <subsense>
+        <trans>ziać</trans>
+        <trans>rozwierać się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>ziewnięcie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <idiom>a yawn</idiom>
+        <idarex>:a :yawn</idarex>
+        <trans>nudziarstwo</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yd</spl>
+  </headword>
+  <hwinfo>
+    <xr>
+      <xrentry>yard</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jard</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yeah</spl>
+  </headword>
+  <hwinfo>
+    <pos>Inter</pos>
+    <pronunciation>
+      <phonetic>jeə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>aha</trans>
+        <trans>no</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>year</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>jɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rok</trans>
+      </subsense>
+      <subsense>
+        <example>seventy-year-old man</example>
+        <trans>siedemdziesięciolatek</trans>
+        <trans>siedemdziesięcioletni mężczyzna</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>all (the) year round</idiom>
+        <idarex>:all (:the) :year :round</idarex>
+        <trans>okrągły rok</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yearly</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈjɪəlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>roczny</trans>
+        <trans>coroczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>rocznie</trans>
+        <trans>corocznie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yearn</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>jɜ:n</phonetic>
+    </pronunciation>
+    <label>lit</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>tęsknić</trans>
+        <preposition>
+          <prepsource>for sb</prepsource>
+          <preptarget>za kimś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yearning</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈjɜ:nɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>tęsknota</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yeast</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ji:st</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>drożdże</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yell</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>jel</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>wrzeszczeć</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>wrzask</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yellow</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈjeləʊ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>żółty</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>żółknąć</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>yellow fever</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˌjeləʊ ˈfi:və</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>żółta febra</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yelp</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>jelp</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zaskowytać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zakrzyknąć</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zakrzyknięcie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Yemen</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈjemən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Jemen</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Yemeni</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈjemənɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>jemeński</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>Jemeńczyk</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yen</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>jen</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ochota</trans>
+        <trans>chętka</trans>
+        <preposition>
+          <prepsource>for sth</prepsource>
+          <preptarget>do czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>waluta Japonii</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>jen</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yes</spl>
+  </headword>
+  <hwinfo>
+    <pos>Inter</pos>
+    <pronunciation>
+      <phonetic>jes</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>tak</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>w odpowiedzi na przeczące pytanie</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>nie</trans>
+      </subsense>
+      <subsense>
+        <example>``You didn't do it?'' `Oh yes, I did''</example>
+        <trans>,,Nie zrobiłeś tego?'' ,,O nie, zrobiłem''</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yes-man</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈjesmən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>potakiwacz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yesterday</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈjestədɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wczoraj</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>the day before yesterday</idiom>
+        <idarex>:the :day :before :yesterday</idarex>
+        <trans>przedwczoraj</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yet</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>jet</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jeszcze</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>przynajmniej</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>a jednak</trans>
+        <trans>jednak</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>dotąd</trans>
+        <trans>do tej pory</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>as yet</idiom>
+        <idarex>:as% yet</idarex>
+        <trans>jak dotąd</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yew</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ju:</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <indicator>krzew</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>cis</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>YHA</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>Youth Hostels Associations</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Związek Schronisk Młodzieżowych</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yield</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ji:ld</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>ustępować</trans>
+        <preposition>
+          <prepsource>to sb</prepsource>
+          <preptarget>przed kimś</preptarget>
+          <preptarget>komuś</preptarget>
+          <prepsource>to sth</prepsource>
+          <preptarget>wobec czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>oddawać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>dawać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zysk</trans>
+        <trans>plon</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>YMCA</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅⋅⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>Young Men's Christian Association</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Stowarzyszenie Męskiej Młodzieży Chrześcijańskiej</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yoghurt</spl>
+    <spl>yogurt</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈjɒgət</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jogurt</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yoke</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>jəʊk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jarzmo</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yolk</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>jəʊk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>żółtko</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yonder</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈjɒndə</phonetic>
+    </pronunciation>
+    <label>lit</label>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>tam</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Det</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>tamten</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>you</spl>
+  </headword>
+  <hwinfo>
+    <pos>Pron</pos>
+    <pronunciation>
+      <phonetic>ju:</phonetic>
+    </pronunciation>
+    <label>GRAM</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ty <i>w różnych przypadkach</i></trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>wy <i>w różnych przypadkach</i></trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>pan</trans>
+        <trans>pani</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>panowie</trans>
+        <trans>panie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <gloss>tłumaczy się bezosobowo</gloss>
+      </subsense>
+      <subsense>
+        <example>then you have problems</example>
+        <trans>wtedy ma się problemy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>young</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>jʌŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>młody</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>młode <i>zwierzęcia</i></trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>youngish</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈjʌŋgɪʃ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dość młody</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>youngster</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈjʌŋstə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dziecko</trans>
+        <trans>chłopiec</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>your</spl>
+  </headword>
+  <hwinfo>
+    <pos>Det</pos>
+    <pronunciation>
+      <phonetic>jɔ:</phonetic>
+    </pronunciation>
+    <label>GRAM</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>twój</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>wasz</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>pana</trans>
+        <trans>pani</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>swój</trans>
+        <trans>własny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yours</spl>
+  </headword>
+  <hwinfo>
+    <pos>Pron</pos>
+    <pronunciation>
+      <phonetic>jɔ:z</phonetic>
+    </pronunciation>
+    <label>GRAM</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>twój</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>wasz</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>pana</trans>
+        <trans>pani</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>``Yours (sincerely/faithfully)''</idiom>
+        <idarex>:yours [:sincerely | :faithfully]</idarex>
+        <trans>,,Z poważaniem''</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yourself</spl>
+  </headword>
+  <hwinfo>
+    <pos>Pron</pos>
+    <pronunciation>
+      <phonetic>jɔ:ˈself</phonetic>
+    </pronunciation>
+    <label>GRAM</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>się</trans>
+        <trans>siebie</trans>
+        <trans>sobie <i>w odniesieniu do 2. os.</i></trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>sam</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>youth</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ju:θ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>młodość</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>młody człowiek</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>the youth</idiom>
+        <idarex>:the :youth</idarex>
+        <trans>młodzież</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+      <variant>
+        <spl>youth hostel</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈju:θ hɒstəl</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>schronisko młodzieżowe</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>youthful</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈju:θfʊl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>młodzieńczy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>młody</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>yr.</spl>
+  </headword>
+  <hwinfo>
+    <xr>
+      <xrentry>year</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rok</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Yugoslav</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈju:gəʊslɑ:v</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jugosłowiański</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Yugoslavia</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌju:gəʊˈslɑ:vɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Jugosławia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>YWCA</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅⋅⋅⋅⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>Young Women's Christian Association</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Stowarzyszenie Żeńskiej Młodzieży Chrześcijańskiej</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Zaire</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zaɪˈɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Zair</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Zairean</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>zaɪˈɪərɪən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zairski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Zambia</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈzæmbɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Zambia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Zambian</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈzæmbɪən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zambijski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zany</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈzeɪnɪ</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dziwaczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zeal</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zi:l</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zapał</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zealous</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈzeləs</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zapalony</trans>
+        <trans>fanatyczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zebra</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈzebrə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zebra</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>zebra crossing</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˌzebrə ˈkrɒsɪŋ</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zebra</trans>
+        <trans>przejście dla pieszych</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zenith</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈzenɪθ</phonetic>
+    </pronunciation>
+    <label>lit</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zenit</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zero</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈzɪərəʊ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zero</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zerowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zest</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zest</phonetic>
+    </pronunciation>
+    <label>lit</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>radość życia</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>przyjemność</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zigzag</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈzɪgzæg</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zygzak</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>poruszać się zygzakiem</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Zimbabwe</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zɪmˈbɑ:bwɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Zimbabwe</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zinc</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zɪŋk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>cynk</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Zion</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈzaɪən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Syjon</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Zionism</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈzaɪənɪzəm</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>syjonizm</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Zionist</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈzaɪənɪst</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>syjonista</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zip</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>zɪp</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <variant>
+          <spl>zip fastener</spl>
+        </variant>
+      </senseinfo>
+      <subsense>
+        <trans>zamek błyskawiczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zamykać na zamek błyskawiczny</trans>
+        <trans>zamykać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>zip code</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈzɪpkəʊd</phonetic>
+      </pronunciation>
+      <label>
+        <lang>US</lang>
+      </label>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kod pocztowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zipper</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈzɪpə</phonetic>
+    </pronunciation>
+    <label>
+      <lang>US</lang>
+    </label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zamek błyskawiczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zodiac</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈzəʊdɪək</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <idiom>the zodiac</idiom>
+        <idarex>:the :zodiak</idarex>
+        <trans>zodiak</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zombie</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈzɒmbɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>żywy trup</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zone</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zəʊn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>strefa</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zoo</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zu:</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zoo</trans>
+        <trans>ogród zoologiczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zoology</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zəʊˈɒləʤɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zoologia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zoom</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>zu:m</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>mknąć</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>szybować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V Phras</pos>
+      <variant>
+        <spl>zoom in</spl>
+      </variant>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>najeżdżać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>zoom lens</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈzu:mlenz</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>obiektyw ze zmienną ogniskową</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zucchini</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zʊˈki:nɪ</phonetic>
+    </pronunciation>
+    <label>
+      <lang>US</lang>
+    </label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>cukinia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+</xbdict>

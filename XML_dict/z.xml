@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE xbdict SYSTEM "xbdict.dtd">
+<xbdict>
+<entry>
+  <headword>
+    <spl>Zaire</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zaɪˈɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Zair</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Zairean</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>zaɪˈɪərɪən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zairski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Zambia</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈzæmbɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Zambia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Zambian</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈzæmbɪən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zambijski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zany</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈzeɪnɪ</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dziwaczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zeal</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zi:l</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zapał</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zealous</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈzeləs</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zapalony</trans>
+        <trans>fanatyczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zebra</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈzebrə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zebra</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>zebra crossing</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˌzebrə ˈkrɒsɪŋ</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zebra</trans>
+        <trans>przejście dla pieszych</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zenith</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈzenɪθ</phonetic>
+    </pronunciation>
+    <label>lit</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zenit</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zero</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈzɪərəʊ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zero</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zerowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zest</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zest</phonetic>
+    </pronunciation>
+    <label>lit</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>radość życia</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>przyjemność</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zigzag</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈzɪgzæg</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zygzak</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>poruszać się zygzakiem</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Zimbabwe</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zɪmˈbɑ:bwɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Zimbabwe</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zinc</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zɪŋk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>cynk</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Zion</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈzaɪən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Syjon</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Zionism</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈzaɪənɪzəm</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>syjonizm</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Zionist</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈzaɪənɪst</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>syjonista</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zip</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>zɪp</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <variant>
+          <spl>zip fastener</spl>
+        </variant>
+      </senseinfo>
+      <subsense>
+        <trans>zamek błyskawiczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zamykać na zamek błyskawiczny</trans>
+        <trans>zamykać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>zip code</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈzɪpkəʊd</phonetic>
+      </pronunciation>
+      <label>
+        <lang>US</lang>
+      </label>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kod pocztowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zipper</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈzɪpə</phonetic>
+    </pronunciation>
+    <label>
+      <lang>US</lang>
+    </label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zamek błyskawiczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zodiac</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈzəʊdɪək</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <idiom>the zodiac</idiom>
+        <idarex>:the :zodiak</idarex>
+        <trans>zodiak</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zombie</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈzɒmbɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>żywy trup</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zone</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zəʊn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>strefa</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zoo</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zu:</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zoo</trans>
+        <trans>ogród zoologiczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zoology</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zəʊˈɒləʤɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zoologia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zoom</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>zu:m</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>mknąć</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>szybować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V Phras</pos>
+      <variant>
+        <spl>zoom in</spl>
+      </variant>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>najeżdżać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>zoom lens</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈzu:mlenz</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>obiektyw ze zmienną ogniskową</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>zucchini</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>zʊˈki:nɪ</phonetic>
+    </pronunciation>
+    <label>
+      <lang>US</lang>
+    </label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>cukinia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+</xbdict>

@@ -1,0 +1,30 @@
+<!ELEMENT indicator (#PCDATA)>
+<!ELEMENT phonetic (#PCDATA)>
+<!ELEMENT hwinfo (pronunciation | xr | pos | label | variant)*>
+<!ELEMENT idiom (#PCDATA)>
+<!ELEMENT xr (xrentry)*>
+<!ELEMENT headword (#PCDATA | spl | lang)*>
+<!ELEMENT prepsource (#PCDATA)>
+<!ELEMENT variant (#PCDATA | spl)*>
+<!ELEMENT lang (#PCDATA)>
+<!ELEMENT pos (#PCDATA)>
+<!ELEMENT pronunciation (phonetic)*>
+<!ELEMENT idarex (#PCDATA)>
+<!ELEMENT spl (#PCDATA)>
+<!ELEMENT syntactic (senseinfo | semantic)*>
+<!ELEMENT senseinfo (xr | pos | variant | label | pronunciation | indicator)*>
+<!ELEMENT preptarget (#PCDATA)>
+<!ELEMENT xrentry (#PCDATA)>
+<!ELEMENT semantic (subsense | senseinfo)*>
+<!ELEMENT label (#PCDATA | lang)*>
+<!ELEMENT gloss (#PCDATA)>
+<!ELEMENT subsense (trans | preposition | idiom | idarex | example | gloss)*>
+<!ELEMENT preposition (#PCDATA | prepsource | preptarget)*>
+<!ELEMENT i (#PCDATA)>
+<!ELEMENT trans (#PCDATA | i)*>
+<!ELEMENT entry (headword | hwinfo | syntactic)*>
+<!ELEMENT xbdict (xi:include | xbdict | entry)+>
+<!ELEMENT xi:include EMPTY>
+<!ATTLIST xi:include href CDATA #IMPLIED>
+<!ATTLIST xbdict xmlns:xi CDATA #FIXED "http://www.w3.org/2001/XInclude" >
+<!ELEMENT example (#PCDATA)>

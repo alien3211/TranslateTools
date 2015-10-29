@@ -1,0 +1,1951 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE xbdict SYSTEM "xbdict.dtd">
+<xbdict>
+<entry>
+  <headword>
+    <spl>qr.</spl>
+  </headword>
+  <hwinfo>
+    <xr>
+      <xrentry>quarter</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kwatera</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>ćwiartka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>q.t.</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌkju:ˈti:</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>quiet</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>cicho</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>qt.</spl>
+  </headword>
+  <hwinfo>
+    <xr>
+      <xrentry>quart</xrentry>
+    </xr>
+    <xr>
+      <xrentry>quarts</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kwarta</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>qu</spl>
+  </headword>
+  <syntactic>
+    <senseinfo>
+      <xr>
+        <xrentry>queen</xrentry>
+      </xr>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>królowa</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <xr>
+        <xrentry>question</xrentry>
+      </xr>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>pytanie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quack</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>kwæk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kwakać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kwakanie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>znachor</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quadrangle</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkwɒdræŋgəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kwadratowy plac</trans>
+        <trans>kwadratowy podwórze</trans>
+        <trans>plac</trans>
+        <trans>podwórze</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quadruped</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkwɒdrʊpəd</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zwierzę czworonożne</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quadruple</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkwɒdrʊpəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zwiększać się czterokrotnie</trans>
+        <trans>zwiększać czterokrotnie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>form</label>
+      </senseinfo>
+      <subsense>
+        <trans>czterokrotnie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quadruplets</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkwɒdrʊplɪts</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>czworaczki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quagmire</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkwɒgmaɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>trzęsawisko</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quail</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kweɪl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przepiórka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quaint</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>kweɪnt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przedziwny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quake</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>kweɪk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>trząść się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>trzęsienie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Quaker</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkweɪkə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kwakier</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>qualification</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌkwɒlɪfɪˈkeɪʃən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wykształcenie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <variant>
+          <spl>qualifications</spl>
+        </variant>
+      </senseinfo>
+      <subsense>
+        <trans>kwalifikacje</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zastrzeżenie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>qualified</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈkwɒlɪfaɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wykwalifikowany</trans>
+        <trans>dyplomowany</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>z zastrzeżeniami</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>be qualified to do sth</idiom>
+        <idarex>be V: :qualified :to V</idarex>
+        <trans>mieć kwalifikacje</trans>
+        <trans>by coś robić</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>qualify</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈkwɒlɪfaɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>otrzymywać dyplom</trans>
+        <preposition>
+          <prepsource>as sb</prepsource>
+          <preptarget>jako ktoś</preptarget>
+        </preposition>
+        <trans>otrzymywać kwalifikacje</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>modyfikować</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zdobywać uprawnienia</trans>
+        <preposition>
+          <prepsource>for sth</prepsource>
+          <preptarget>do czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zakwalifikowywać się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>qualitative</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈkwɒlɪtətɪv</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jakościowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quality</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkwɒlɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jakość</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>wysoka jakość</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zaleta</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>cecha</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>qualm</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kwɑ:m</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>skrupuły</trans>
+        <trans>wątpliwość</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quandary</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkwɒndərɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <idiom>in a quandary</idiom>
+        <idarex>:in :a (ADJ) :quandary</idarex>
+        <trans>w trudnej sytuacji</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quantitative</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈkwɒntɪtətɪv</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ilościowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quantity</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkwɒntɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ilość</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>in quantity</idiom>
+        <idarex>:in :quantity</idarex>
+        <trans>w dużych ilościach</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quarantine</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkwɒrənti:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kwarantanna</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>odbywać kwarantannę</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quarrel</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkwɒrəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>sprzeczka</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>obiekcje</trans>
+        <preposition>
+          <prepsource>with sth</prepsource>
+          <preptarget>wobec czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>sprzeczać się</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>form</label>
+      </senseinfo>
+      <subsense>
+        <trans>kwestionować</trans>
+        <preposition>
+          <prepsource>with sth</prepsource>
+          <preptarget>coś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quarrelsome</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈkwɒrəlsəm</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kłótliwy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quarry</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkwɒrɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kamieniołom</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zdobycz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>wydobywać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quart</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kwɔ:t</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kwarta <i>ok. 1 l</i></trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quarter-final</spl>
+  </headword>
+  <hwinfo>
+    <pos>N Comp</pos>
+    <pronunciation>
+      <phonetic>ˌkwɔ:təˈfaɪnəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ćwierćfinał</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quarterly</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkwɔ:təlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kwartalnie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kwartalnik</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quartermaster</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkwɔ:təmɑ:stə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kwatermistrz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quartet</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kwɔ:ˈtet</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kwartet</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quartz</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>kwɔ:ts</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kwarc</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kwarcowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quash</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>kwɒʃ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>unieważniać</trans>
+        <trans>anulować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quaver</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈkweɪvə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>drgać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>mówić drżącym głosem</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quay</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ki:</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nabrzeże</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>queasy</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈkwi:zɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>odczuwający mdłości</trans>
+        <trans>czujący się niedobrze</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>queen</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkwi:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>królowa</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>w szachach</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>królowa</trans>
+        <trans>hetman</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>queer</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>kwɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>dziwaczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>pejor</label>
+      </senseinfo>
+      <subsense>
+        <trans>homoseksualista</trans>
+        <trans>pedał</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quell</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>kwel</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>tłumić</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zduszać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quench</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>kwenʧ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>gasić</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>querulous</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈkwerjʊləs</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>swarliwy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>query</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkwerɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zapytanie</trans>
+        <trans>zakwestionowanie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zapytać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>sprawdzać</trans>
+        <trans>kwestionować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quest</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kwest</phonetic>
+    </pronunciation>
+    <label>lit</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>poszukiwanie</trans>
+        <preposition>
+          <prepsource>for sth</prepsource>
+          <preptarget>czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>question</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkwesʧən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>pytanie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>wątpliwość</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>problem</trans>
+        <trans>zagadnienie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>pytać</trans>
+        <preposition>
+          <prepsource>about sth</prepsource>
+          <preptarget>o coś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>kwestionować</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>beyond question</idiom>
+        <idarex>:beyond :question</idarex>
+        <trans>bez żadnej wątpliwości</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>out of the question</idiom>
+        <idarex>:out% of :the :question</idarex>
+        <trans>wykluczone</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>in question</idiom>
+        <idarex>:in :question</idarex>
+        <trans>wspomniany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>question mark</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈkwesʧən mɑ:k</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>znak zapytania</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>question tag</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈkwesʧəntæg</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>pytanie obcięte</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>questionable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈkwesʧənəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wątpliwy</trans>
+        <trans>kwestionowalny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>questionnaire</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌkwesʧənˈeə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kwestionariusz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quibble</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkwɪbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>spierać się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>obiekcja</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quick</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>kwɪk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>szybki</trans>
+        <trans>prędki</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>krótki</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>be quick to do sth</idiom>
+        <idarex>be V: :quick :to V</idarex>
+        <trans>od razu zabrać się do zrobienia czegoś</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>(cut) to the quick</idiom>
+        <idarex>(cut V:) :to :the :quick</idarex>
+        <trans>urazić głęboko</trans>
+        <trans>urazić do głębi</trans>
+        <trans>głęboko</trans>
+        <trans>do głębi</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quicken</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈkwɪkən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przyspieszać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quicksand</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkwɪksænd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ruchome piaski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quick-witted</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌkwɪkˈwɪtɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bystry</trans>
+        <trans>pojętny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quid</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kwɪd</phonetic>
+    </pronunciation>
+    <label><lang>BR</lang> nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>funt</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quiet</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkwaɪət</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>cichy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>spokojny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>dyskretny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>cisza</trans>
+        <trans>spokój</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>keep quiet</idiom>
+        <idarex>keep V: :quiet</idarex>
+        <trans>być cicho</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+      <variant>
+        <spl>quiet down</spl>
+      </variant>
+      <label>
+        <lang>US</lang>
+      </label>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>uspokajać się</trans>
+        <trans>uspokajać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quieten</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈkwaɪətən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>uspokajać</trans>
+        <preposition>
+          <prepsource>down</prepsource>
+          <preptarget>się</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quill</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kwɪl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pióro <i>ptasie</i></trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>kolec</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quilt</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kwɪlt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kołdra</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quilted</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈkwɪltɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ocieplany</trans>
+        <trans>watowany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quince</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kwɪns</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pigwa</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quinine</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kwɪˈni:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>chinina</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quintet</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kwɪnˈtet</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kwintet</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quip</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kwɪp</phonetic>
+    </pronunciation>
+    <label>przest</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dowcipne powiedzenie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quirk</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kwɜ:k</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dziwactwo</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zrządzenie losu</trans>
+        <trans>zrządzenie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quit</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>kwɪt</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przestawać</trans>
+        <trans>rzucać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quite</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>kwaɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>całkiem</trans>
+        <trans>dość</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zupełnie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>quite a</idiom>
+        <idarex>:quite a D:</idarex>
+        <trans>duży</trans>
+        <trans>nielichy</trans>
+      </subsense>
+      <subsense>
+        <example>quite a problem</example>
+        <trans>duży problem</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>form</label>
+      </senseinfo>
+      <subsense>
+        <idiom>quite (so)</idiom>
+        <idarex>:quite (:so)</idarex>
+        <trans>właśnie tak</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quits</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kwɪts</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kwita</trans>
+        <preposition>
+          <prepsource>with sb</prepsource>
+          <preptarget>z kimś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>call it quits</idiom>
+        <idarex>call V: :it :quits</idarex>
+        <trans>kończyć spór</trans>
+        <trans>kończyć</trans>
+        <trans>godzić się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quiver</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkwɪvə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>dygotać</trans>
+        <trans>trząść się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>dygotanie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quiz</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>kwɪz</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kwiz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>wypytywać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quizzical</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈkwɪzɪkəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>porozumiewawczy</trans>
+        <trans>kpiący</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quota</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkwəʊtə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>limit</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quotation</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>kwəʊˈteɪʃən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>cytat</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>oferta</trans>
+        <trans>stawka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>quotation mark</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>kwəʊˈteɪʃən  mɑ:k</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>cudzysłów</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quote</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>kwəʊt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>cytować</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>prawo, fakty</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>przytaczać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>wyceniać</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>podawać stawkę</trans>
+        <preposition>
+          <prepsource>for sth</prepsource>
+          <preptarget>za coś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <indicator>autora</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>przytoczenie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>za pracę</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>stawka</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <variant>
+          <spl>quotes</spl>
+        </variant>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>cudzysłów</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>quotient</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkwəʊʃənt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>iloraz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+</xbdict>

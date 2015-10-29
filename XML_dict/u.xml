@@ -1,0 +1,7442 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE xbdict SYSTEM "xbdict.dtd">
+<xbdict>
+<entry>
+  <headword>
+    <spl>ubiquitous</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ju:ˈbɪkwɪtəs</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wszechobecny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>udder</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌdə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wymię</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Uganda</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ju:ˈgændə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Uganda</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Ugandan</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ju:ˈgændən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>ugandyjski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>Ugandyjczyk</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>ugly</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈʌglɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>brzydki</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>paskudny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Ukrainian</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ju:ˈkreɪnɪən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>ukraiński</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>Ukrainiec</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>ulcer</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌlsə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wrzód</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>ult.</spl>
+    <spl>ultimo</spl>
+    <lang>łacina</lang>
+  </headword>
+  <hwinfo>
+    <xr>
+      <xrentry>of last month</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ubiegłego miesiąca</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>ulterior</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌlˈtɪərɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dalszy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>ulterior motive</idiom>
+        <idarex>:ulterior :motive</idarex>
+        <trans>ukryty motyw</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>ultimate</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈʌltɪmət</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ostateczny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>najwyższy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>ultimately</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈʌltɪmətlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ostatecznie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>ultimatum</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌʌltɪˈmeɪtəm</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ultimatum</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>ultraviolet</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌltrəˈvaɪələt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ultrafioletowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>umbilical cord</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ʌmˌbɪlɪkəl ˈkɔ:d</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pępowina</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>umbrella</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ʌmˈbrələ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>parasol</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>umpire</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈʌmpaɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>sędzia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>sędziować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>umpteen</spl>
+  </headword>
+  <hwinfo>
+    <pos>Num</pos>
+    <pronunciation>
+      <phonetic>ˈʌmpˈti:n</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>tysiąc</trans>
+        <trans>niezliczona ilość</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>UN</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌju:ˈen</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>United Nations</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ONZ</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unabashed</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnəˈbæʃt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie zbity z tropu</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unabated</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnəˈbeɪtɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie słabnący</trans>
+        <trans>niezmniejszony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unable</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ʌnˈeɪbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <idiom>be unable to do sth</idiom>
+        <idarex>be V: :unable :to VERB</idarex>
+        <trans>nie potrafić zrobić czegoś</trans>
+        <trans>nie móc zrobić czegoś</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unacceptable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnəkˈseptəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie do przyjęcia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unaccompanied</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnəˈkʌmpənɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bez opieki</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>bez towarzyszenia instrumentu</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unaccountable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnəˈkaʊntəbəl</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie wyjaśniony</trans>
+        <trans>nie do wyjaśnienia</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>niewytłumaczalny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unaccustomed</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnəˈkʌstəmd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieprzywykły</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>niezwyczajny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unanimous</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ju:ˈnænɪməs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jednogłośny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unarmed</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈɑ:md</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieuzbrojony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unassuming</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnəˈsju:mɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezpretensjonalny</trans>
+        <trans>skromny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unattached</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnəˈtæʧ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie związany</trans>
+        <preposition>
+          <prepsource>to sth</prepsource>
+          <preptarget>z czymś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>samotny</trans>
+        <trans>nie związany małżeństwem</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unattended</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnəˈtendɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bez opieki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unauthorized</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈɔ:θəraɪzd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieupoważniony</trans>
+        <trans>bez upoważnienia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unavoidable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnəˈvɔɪdəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie do uniknięcia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unaware</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌʌnəˈweə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <idiom>be unaware of sth</idiom>
+        <idarex>be V: (ADV) :unaware :of</idarex>
+        <trans>być nieświadomym czegoś</trans>
+        <trans>nie zdawać sobie sprawy z czegoś</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unawares</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌʌnəˈweəz</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <idiom>catch/take sb unawares</idiom>
+        <idarex>[ catch V: | take V: ] NPRO :unawares</idarex>
+        <trans>zastawać kogoś nieprzygotowanym</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unbearable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈbeərəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie do zniesienia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unbeatable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈbi:təbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie do pokonania</trans>
+        <trans>nie do prześcignięcia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unbelievable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnbɪˈli:vəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niewiarygodny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unborn</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈbɔ:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nienarodzony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unbounded</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈbaʊndɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezgraniczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unbroken</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈbrəʊkən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bez zakłóceń</trans>
+        <trans>bez przerwy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unbutton</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈbʌtən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozpinać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncalled-for</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈkɔ:ld fɔ:</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieproszony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncanny</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌŋˈkænɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zadziwiający</trans>
+        <trans>zagadkowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unceasing</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈsi:sɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieustanny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unceremonious</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnserɪˈməʊnɪəs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezceremonialny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncertain</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈsɜ:tən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niepewny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncertainty</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ʌnˈsɜ:təntɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niepewność</trans>
+        <trans>wątpliwość</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unchallenged</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈʧælənʤd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niekwestionowalny</trans>
+        <trans>niekwestionowany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unchecked</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈʧekt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niepohamowany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncivilized</spl>
+    <spl>uncivilised</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈsɪvɪlaɪzd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>barbarzyński</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>nieludzki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncle</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌŋkəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wujek</trans>
+        <trans>wuj</trans>
+        <trans>stryjek</trans>
+        <trans>stryj</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unclear</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌŋˈklɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niejasny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>be unclear about sth</idiom>
+        <idarex>be V: :unclear :about NP</idarex>
+        <trans>nie wiedzieć czegoś</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncomfortable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌŋˈkʌmfətəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niewygodny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>niepewny</trans>
+        <trans>źle się czujący</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncommitted</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌŋkəˈmɪtɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>neutralny</trans>
+        <trans>niezaangażowany</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nie związany</trans>
+        <preposition>
+          <prepsource>to sth</prepsource>
+          <preptarget>z czymś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncommon</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌŋˈkɒmən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niepospolity</trans>
+        <trans>rzadki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncomprehending</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌŋkɒmprɪˈhendɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie pojmujący</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncompromising</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌŋˈkɒmprəmaɪzɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezkompromisowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unconcerned</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌŋkənˈsɜ:nd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezainteresowany</trans>
+        <trans>nie troszczący się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unconditional</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌŋkənˈdɪʃənəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezwarunkowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unconscious</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ʌŋˈkɒnʃəs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nieprzytomny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nie zdający sobie sprawy</trans>
+        <preposition>
+          <prepsource>of sth</prepsource>
+          <preptarget>z czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>podświadomy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>podświadomość</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncontrolled</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌŋkənˈtrəʊld</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niekontrolowany</trans>
+        <trans>niepowstrzymany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncork</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌŋˈkɔ:k</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>odkorkować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncountable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌŋˈkaʊntəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niepoliczalny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncouth</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌŋˈku:θ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieokrzesany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uncover</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌŋˈkʌvə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>odkrywać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undaunted</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈdɔ:ntɪd</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezastraszony</trans>
+        <trans>nie powstrzymany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undecided</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌndɪˈsaɪdɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezdecydowany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undeniable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌndɪˈnaɪəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezaprzeczalny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undercarriage</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌndəkærɪʤ</phonetic>
+    </pronunciation>
+    <label>
+      <lang>BR</lang>
+    </label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>podwozie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underclothes</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌndəkləʊðz</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bielizna</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undercover</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈʌndəkʌvə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>tajny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undercurrent</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌndəkʌrənt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ukryty nurt</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undercut</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈkʌt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>sprzedawać taniej</trans>
+        <preposition>
+          <prepsource>sb</prepsource>
+          <preptarget>niż ktoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>podcinać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underdeveloped</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌndədɪˈvelɒpt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>słabo rozwinięty</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underdog</spl>
+  </headword>
+  <hwinfo>
+    <variant>
+      <spl>the underdog</spl>
+    </variant>
+    <pronunciation>
+      <phonetic>ˈʌndədɒg</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>słabsza strona</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underdone</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈdʌn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niedopieczony</trans>
+        <trans>niedogotowany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underestimate</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˌʌndərˈestɪmeɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niedoceniać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underfed</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈfed</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niedożywiony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underfoot</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈfʊt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pod stopami</trans>
+        <trans>pod nogami</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undergo</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈgəʊ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przechodzić</trans>
+        <trans>poddawać się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undergraduate</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈgrædjʊət</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>student</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underground</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈʌndəgraʊnd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>podziemny</trans>
+        <trans>w podziemiu</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <variant>
+          <spl>the underground</spl>
+        </variant>
+        <label>
+          <lang>BR</lang>
+        </label>
+      </senseinfo>
+      <subsense>
+        <trans>metro</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undergrowth</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌndəgrəʊθ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>poszycie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underhand</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈhænd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>potajemny</trans>
+        <trans>skryty</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underlie</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈlaɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>znajdować się u podstaw</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underline</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈlaɪn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>podkreślać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underling</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌndəlɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>podwładny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undermine</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈmaɪn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>podkopywać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underneath</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌʌndəˈni:θ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Prep</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>pod</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>pod spodem</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>dolny</trans>
+        <trans>spodni</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>spód</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underpaid</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈpeɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niedopłacany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underpants</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌndəpænts</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>majtki</trans>
+        <trans>kalesony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underpass</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌndəpɑ:s</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <label>
+          <lang>BR</lang>
+        </label>
+      </senseinfo>
+      <subsense>
+        <trans>przejście podziemne</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>przejazd</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underprivileged</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈprɪvɪlɪʤd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>upośledzony</trans>
+        <trans>nie mający przywilejów</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underrate</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈreɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie doceniać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undershirt</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌndəʃɜ:t</phonetic>
+    </pronunciation>
+    <label>
+      <lang>US</lang>
+    </label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>podkoszulek</trans>
+        <trans>koszulka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underside</spl>
+  </headword>
+  <hwinfo>
+    <variant>
+      <spl>the underside</spl>
+    </variant>
+    <pronunciation>
+      <phonetic>ˈʌndəsaɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>spód</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>understaffed</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌʌndəˈstɑ:ft</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <idiom>be understaffed</idiom>
+        <idarex>be V: :understaffed</idarex>
+        <trans>mieć za mało personelu</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>understand</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈstænd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozumieć</trans>
+        <trans>pojmować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>understandable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈstændəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zrozumiały</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>understanding</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌʌndəˈstændɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>rozumienie</trans>
+        <trans>pojmowanie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zrozumienie</trans>
+        <trans>zgoda</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>porozumienie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>wyrozumiały</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>understatement</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈsteɪtmənt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niedomówienie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>understudy</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌndəstʌdɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dubler</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undertake</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈteɪk</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>podejmować się</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zobowiązywać się</trans>
+        <preposition>
+          <prepsource>sth</prepsource>
+          <preptarget>do czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undertaker</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈteɪkə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przedsiębiorca pogrzebowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undertaking</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈteɪkɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przedsięwzięcie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>form</label>
+      </senseinfo>
+      <subsense>
+        <trans>zobowiązanie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undertone</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌndətəʊn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nuta</trans>
+        <trans>odcień</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>in an undertone</idiom>
+        <idarex>:in a D: undertone N:</idarex>
+        <trans>półgłosem</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undervalue</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈvælju:</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niedoceniać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underwater</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈwɔ:tə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>podwodny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>podmorski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underway</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌʌndəˈweɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <idiom>be underway</idiom>
+        <idarex>be V: :underway</idarex>
+        <trans>być w trakcie</trans>
+        <trans>trwać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underwear</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌndəweə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bielizna</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underweight</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈweɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niedowaga</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underworld</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌndəwɜ:ld</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>podziemie</trans>
+        <trans>świat przestępczy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>underwriter</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌʌndəˈraɪtə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>agent ubezpieczeniowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undesirable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌndɪˈzaɪərəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niepożądany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undies</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌndɪz</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bielizna</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undo</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈdu:</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozwiązywać</trans>
+        <trans>rozpinać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>niszczyć</trans>
+        <trans>zaprzeczać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undoing</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ʌnˈdu:ɪŋ</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>klęska</trans>
+        <trans>ruina</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undone</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈdʌn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozwiązany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undoubted</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈdaʊtɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezaprzeczalny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undress</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈdres</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozbierać się</trans>
+        <trans>rozbierać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undue</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈdju:</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nadmierny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>undulate</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈʌndjəleɪt</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>falować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unduly</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ʌnˈdju:lɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nadmiernie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unearth</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈɜ:θ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>odkopywać</trans>
+        <trans>wydobywać na światło dzienne</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unearthly</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈɜ:θlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieziemski</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nieludzki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unease</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ʌnˈi:z</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niepokój</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uneasy</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈi:zɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niespokojny</trans>
+        <trans>niepewny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unemployed</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnɪmˈplɔɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezrobotny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unemployment</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌʌnɪmˈplɔɪmənt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezrobocie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unending</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈendɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie kończący się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unequivocal</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnɪkˈwɪvəkəl</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niedwuznaczny</trans>
+        <trans>jasny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unerring</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈɜ:rɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieomylny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uneven</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈi:vən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nierówny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uneventful</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnɪˈventfʊl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jednostajny</trans>
+        <trans>bez wydarzeń</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unexpected</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnɪksˈpektɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niespodziewany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unfailing</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈfeɪlɪŋ</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezawodny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unfair</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈfeə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niesprawiedliwy</trans>
+        <preposition>
+          <prepsource>to sb</prepsource>
+          <preptarget>wobec kogoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unfaithful</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈfeɪθfʊl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niewierny</trans>
+        <preposition>
+          <prepsource>to sb</prepsource>
+          <preptarget>wobec kogoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unfamiliar</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnfəˈmɪlɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieznajomy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nie zaznajomiony</trans>
+        <preposition>
+          <prepsource>with sth</prepsource>
+          <preptarget>z czymś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unfasten</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈfɑ:sən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozpinać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unfavourable</spl>
+    <spl>unfavorable</spl>
+    <lang>US</lang>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈfeɪvərəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niekorzystny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nie sprzyjający</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unfeeling</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈfi:lɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieczuły</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unfit</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈfɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie w formie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>niezdatny</trans>
+        <preposition>
+          <prepsource>for sth</prepsource>
+          <preptarget>do czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unfold</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈfəʊld</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozwijać się</trans>
+        <trans>rozwijać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>odsłaniać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unforeseen</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnfəˈsi:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieprzewidziany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unforgettable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnfəˈgetəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezapomniany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unforgivable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnfəˈgɪvəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niewybaczalny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unfortunate</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈfɔ:ʧənət</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieszczęśliwy</trans>
+        <trans>nie mający powodzenia</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nieszczęsny</trans>
+        <trans>niedobry</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unfounded</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈfaʊndɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezpodstawny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unfriendly</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈfrendlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieprzyjazny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unfurnished</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈfɜ:nɪʃt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie umeblowany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>ungainly</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈgeɪnlɪ</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezgrabny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unhappy</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈhæpɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieszczęśliwy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>niezadowolony</trans>
+        <preposition>
+          <prepsource>about sth</prepsource>
+          <preptarget>z czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nieszczęsny</trans>
+        <trans>pożałowania godny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unharmed</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈhɑ:md</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nienaruszony</trans>
+        <trans>bez uszczerbku</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unhealthy</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈhelθɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezdrowy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>chorobliwy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unheard-of</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈhɜ:dəv</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niesłychany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>UNICEF</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈju:nɪsef</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>United Nations International Children's Emergency Fund</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Fundusz Narodów Zjednoczonych Pomocy Dzieciom</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unicorn</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈju:nɪkɔ:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jednorożec</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unification</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌju:nɪfɪˈkeɪʃən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zjednoczenie</trans>
+        <trans>unifikacja</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uniform</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈju:nɪfɔ:m</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>mundur</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>jednolity</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uniformity</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌjʊnɪˈfɔ:mɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ujednolicenie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unify</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈju:nɪfaɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jednoczyć</trans>
+        <trans>unifikować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unilateral</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌju:nɪˈlætərəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jednostronny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uninhabitable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnɪnˈhæbɪtəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie nadający się do zamieszkania</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uninhabited</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnɪnˈhæbɪtɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezamieszkany</trans>
+        <trans>niezamieszkały</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unique</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ju:ˈni:k</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>unikalny</trans>
+        <trans>unikatowy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>wyłączny</trans>
+        <trans>ograniczony</trans>
+        <preposition>
+          <prepsource>to sth</prepsource>
+          <preptarget>do czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>wyjątkowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unisex</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈju:nɪseks</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>obupłciowy</trans>
+        <trans>dla obu płci</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unison</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈju:nɪsən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <idiom>in unison</idiom>
+        <idarex>:in :unison</idarex>
+        <trans>zgodnie</trans>
+        <trans>unisono</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unit</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈju:nɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jednostka</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>całość</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>grupa</trans>
+        <trans>zespół</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Unitarian</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ju:nɪˈteərɪən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>unitariański</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>unitarianin</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unite</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ju:ˈnaɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jednoczyć się</trans>
+        <trans>jednoczyć</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unity</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈju:nɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jedność</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>univ.</spl>
+  </headword>
+  <hwinfo>
+    <xr>
+      <xrentry>university</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>uniwersytet</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>universal</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌju:nɪˈvɜ:səl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>powszechny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>uniwersalny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>universe</spl>
+  </headword>
+  <hwinfo>
+    <variant>
+      <spl>the universe</spl>
+    </variant>
+    <pronunciation>
+      <phonetic>ˈju:nɪvɜ:s</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wszechświat</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>university</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌju:nɪˈvɜ:sɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>uniwersytet</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unjust</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈʤʌst</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niesprawiedliwy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unjustified</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈʤʌstɪfaɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezrozumiały</trans>
+        <trans>nieuzasadniony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unkempt</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌŋˈkempt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>źle utrzymany</trans>
+        <trans>rozczochrany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unkind</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌŋˈkaɪnd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niedobry</trans>
+        <trans>okrutny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unknown</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈnəʊn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieznany</trans>
+        <trans>nieznajomy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unlawful</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈlɔ:fʊl</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezprawny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unleaded</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈledɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezołowiowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unleash</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈli:ʃ</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>uwalniać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>spuszczać ze smyczy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unless</spl>
+  </headword>
+  <hwinfo>
+    <pos>Conj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈles</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jeżeli nie</trans>
+        <trans>o ile nie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unlike</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ʌnˈlaɪk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Prep</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>w przeciwieństwie do</trans>
+        <trans>w odróżnieniu od</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>niepodobny</trans>
+        <preposition>
+          <prepsource>sb</prepsource>
+          <preptarget>do kogoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unlikely</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈlaɪklɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieprawdopodobny</trans>
+        <trans>mało prawdopodobny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>sth is unlikely to be (finished)</idiom>
+        <idarex>be V: :unlikely :to VERB</idarex>
+        <trans>jest mało prawdopodobne</trans>
+        <trans>że coś się skończy</trans>
+        <trans>że coś się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unlit</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈlɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezapalony</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nieoświetlony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unload</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈləʊd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wyładowywać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>pozbywać się</trans>
+        <preposition>
+          <prepsource>sth on sb</prepsource>
+          <preptarget>czegoś wobec kogoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unlock</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈlɒk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>otwierać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unlucky</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈlʌkɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pechowy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>be unlucky</idiom>
+        <idarex>be V: :unlucky</idarex>
+        <trans>nie mieć szczęścia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unmade</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌmˈmeɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieposłany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unmarked</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌmˈmɑ:kt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieoznaczony</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nieruszony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unmistakable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌmmɪˈsteɪkəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>łatwy do poznania</trans>
+        <trans>niewątpliwy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unmitigated</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌmˈmɪtɪgeɪtɪd</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niepoprawny</trans>
+        <trans>całkowity</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unnecessary</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈnesəsərɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zbędny</trans>
+        <trans>niepotrzebny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unnerve</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈnɜ:v</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>odbierać odwagę</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unnoticed</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈnəʊtɪst</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezauważony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>UNO</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈju:nəʊ</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>United Nations Organization</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ONZ</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unobtrusive</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnəbˈtru:sɪv</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie narzucający się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unofficial</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnəˈfɪʃəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieoficjalny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unorthodox</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈɔ:θədɒks</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieortodoksyjny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unpack</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈpæk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozpakowywać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unpaid</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈpeɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezpłatny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>niezapłacony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unpalatable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈpælətəbəl</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie do przełknięcia</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nie do przyjęcia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unparalleled</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈpærəleld</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezrównany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unpleasant</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈplezənt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieprzyjemny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unplug</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈplʌg</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wyłączać z sieci</trans>
+        <trans>wyłączać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unprecedented</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈpresɪdentɪd</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezprecedensowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unpredictable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnprɪˈdɪktəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie do przewidzenia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unprofitable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈprɒfɪtəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezyskowny</trans>
+        <trans>niedochodowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unqualified</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈkwɒlɪfaɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niewykwalifikowany</trans>
+        <trans>bez kwalifikacji</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>kompletny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unquestionable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈkwesʧənəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niekwestionowany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unravel</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈrævəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozplątywać się</trans>
+        <trans>rozplątywać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>rozwikływać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unreal</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈrɪəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nierealny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unrealistic</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnrɪəˈlɪstɪk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nierealistyczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unreasonable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈri:zənəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nierozsądny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unrecognizable</spl>
+    <spl>unrecognisable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈrekəgnaɪzəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nierozpoznawalny</trans>
+        <trans>nie do odróżnienia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unrelated</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnrɪˈleɪtɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie związany</trans>
+        <preposition>
+          <prepsource>to sth</prepsource>
+          <preptarget>z czymś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unrelenting</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnrɪˈlentɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieustanny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>bez skrupułów</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unreliable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnrɪˈlaɪəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieodpowiedzialny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unremitting</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnrɪˈmɪtɪŋ</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieustanny</trans>
+        <trans>niestrudzony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unreserved</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnrɪˈzɜ:vd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>całkowity</trans>
+        <trans>bez zastrzeżeń</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unrest</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌnrest</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niepokój</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unrewarding</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnrɪˈwɔ:dɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie dający satysfakcji</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unripe</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈraɪp</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niedojrzały</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unrivalled</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈraɪvəld</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezrównany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unroll</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈrəʊl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozwijać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unruly</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈru:lɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieposłuszny</trans>
+        <trans>niesforny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unsafe</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈseɪf</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niebezpieczny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>niepewny</trans>
+        <trans>zagrożony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unsatisfactory</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnsætɪsˈfæktərɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezadowalający</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unsavoury</spl>
+    <spl>unsavory</spl>
+    <lang>US</lang>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈseɪvərɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>odrażający</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unscathed</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈskeɪðd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie draśnięty</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unscrew</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈskru:</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>odkręcać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unscrupulous</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈskru:pjʊləs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bez skrupułów</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unseen</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈsi:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie widziany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unsettled</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈsetəld</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieustabilizowany</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>rozkojarzony</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>form</label>
+      </senseinfo>
+      <subsense>
+        <trans>nierozstrzygnięty</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unshakable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈʃeɪkəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezachwiany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unshaven</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈʃeɪvən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieogolony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unsightly</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈsaɪtlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieładny</trans>
+        <trans>mało atrakcyjny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unskilled</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈskɪld</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niewykwalifikowany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unsophisticated</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnsəˈfɪstɪkeɪtɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieskomplikowany</trans>
+        <trans>prosty</trans>
+        <trans>niewyrafinowany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unsound</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈsaʊnd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>błędny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zagrożony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unspeakable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈspi:kəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niewypowiedziany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unspecified</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈspesɪfaɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niewyszczególniony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unstable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈsteɪbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niestabilny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>źle przymocowany</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>rozchwiany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unsteady</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈstedɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niepewny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>roztrzęsiony</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>niestabilny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unsuccessful</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnsəkˈsesfʊl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieudany</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>bezowocny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>człowiek</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>bez powodzenia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unsuitable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈsu:təbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieodpowiedni</trans>
+        <preposition>
+          <prepsource>for sth</prepsource>
+          <preptarget>do czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unsuited</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈsu:tɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieodpowiedni</trans>
+        <preposition>
+          <prepsource>to sth</prepsource>
+          <prepsource>for sth</prepsource>
+          <preptarget>do czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>niedobrany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unsure</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈʃʊə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niepewny</trans>
+        <preposition>
+          <prepsource>about sth</prepsource>
+          <prepsource>of sth</prepsource>
+          <preptarget>czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unsympathetic</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌnsɪmpəˈθetɪk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieczuły</trans>
+        <trans>nie współczujący</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>untangle</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈtæŋgəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozplątywać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>untapped</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈtæpt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nienaruszony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>untenable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈtenəbəl</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie do obrony</trans>
+        <trans>nie do utrzymania</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unthinkable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈθɪŋkəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nie do pomyślenia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>untidy</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈtaɪdɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niechlujny</trans>
+        <trans>zaniedbany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>untie</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈtaɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozwiązywać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>until</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ʌnˈtɪl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Prep</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>aż do</trans>
+        <trans>do</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Conj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>dopóki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>untimely</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈtaɪmlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przedwczesny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>untold</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈtəʊld</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niewypowiedziany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>untoward</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌntəˈwɔ:d</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niekorzystny</trans>
+        <trans>niedobry</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>untranslatable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌntrænsˈleɪtəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieprzetłumaczalny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>untreated</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈtri:tɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieleczony</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nieoczyszczony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unused</spl>
+  </headword>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+      <pronunciation>
+        <phonetic>ʌnˈju:zt</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nieużywany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+      <pronunciation>
+        <phonetic>ʌnˈju:st</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nieprzywykły</trans>
+        <preposition>
+          <prepsource>to sth</prepsource>
+          <preptarget>do czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unusual</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈju:ʒʊəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezwykły</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unusually</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ʌnˈju:ʒʊəlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niezwykle</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>co niezwykłe</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unveil</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈveɪl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>odsłonić</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>form</label>
+      </senseinfo>
+      <subsense>
+        <trans>ukazać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unwary</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈweərɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieostrożny</trans>
+        <trans>nie spodziewający się niczego złego</trans>
+        <trans>nie spodziewający się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unwelcome</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈwelkəm</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieproszony</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>niepożądany</trans>
+        <trans>przykry</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unwell</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈwel</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>chory</trans>
+        <trans>niedysponowany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unwieldy</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈwi:ldɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieporęczny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>niemrawy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unwilling</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈwɪlɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niechętny</trans>
+        <preposition>
+          <prepsource>to do sth</prepsource>
+          <preptarget>aby coś zrobić</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unwind</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈwaɪnd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>odprężyć się</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>rozwijać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unwise</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈwaɪz</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niemądry</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unwitting</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈwɪtɪŋ</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezwolny</trans>
+        <trans>nieświadomy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unworkable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈwɜ:kəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <indicator>plan</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>niepraktyczny</trans>
+        <trans>nie do przeprowadzenia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unworthy</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈwɜ:ðɪ</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niegodny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unwrap</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈræp</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozpakowywać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unwritten</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌnˈrɪtən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niepisany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>unzip</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌnˈzɪp</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozpinać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>up-and-coming</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌpənˈkʌmɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wybijający się w górę</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upbringing</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌpbrɪŋɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wychowanie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>update</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌpˈdeɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>modernizować</trans>
+        <trans>aktualizować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upheaval</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ʌpˈhi:vəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niepokój</trans>
+        <trans>przewrót społeczny</trans>
+        <trans>przewrót</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uphill</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌʌpˈhɪl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>do góry</trans>
+        <trans>w górę</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>ciężki</trans>
+        <trans>jak pod górę</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uphold</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌpˈhəʊld</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>podtrzymywać</trans>
+        <trans>utrzymywać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upholstered</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ʌpˈhəʊlstəd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>tapicerowany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upholstery</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ʌpˈhəʊlstərɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>tapicerka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upkeep</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌpki:p</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>koszty utrzymania</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upland</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈʌplænd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>wysoko położony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <variant>
+          <spl>uplands</spl>
+        </variant>
+      </senseinfo>
+      <subsense>
+        <trans>tereny wysoko położone</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upon</spl>
+  </headword>
+  <hwinfo>
+    <pos>Prep</pos>
+    <pronunciation>
+      <phonetic>əˈpɒn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <label>form</label>
+      </senseinfo>
+      <subsense>
+        <trans>na</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>po</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>za</trans>
+      </subsense>
+      <subsense>
+        <example>row upon row</example>
+        <trans>rząd za rzędem</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upper</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈʌpə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>górny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>wierzch buta</trans>
+        <trans>wierzch</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>have the upper hand in sth</idiom>
+        <idarex>HVE :the :upper :hand :in NP</idarex>
+        <trans>mieć przewagę w czymś</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>upper class</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˌʌpə ˈklɑ:s</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>warstwa wyższa</trans>
+        <trans>burżuazja</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uppermost</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈʌpəməʊst</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>najwyższy</trans>
+        <trans>najwyżej</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>najważniejszy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upright</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈʌpraɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wyprostowany</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>pionowy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>prawy</trans>
+        <trans>uczciwy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uprising</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌpraɪzɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>powstanie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uproar</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌprɔ:</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wrzawa</trans>
+        <trans>tumult</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zamieszanie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uproot</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ʌpˈru:t</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wykorzeniać się</trans>
+        <trans>wykorzeniać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upshot</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈʌpʃɒt</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <idiom>the upshot</idiom>
+        <idarex>:the :upshot</idarex>
+        <trans>wynik</trans>
+        <trans>rezultat</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upstairs</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌʌpˈsteəz</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>na górę</trans>
+        <trans>do góry <i>w domu</i></trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>na górze <i>w domu</i></trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>górny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>góra</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upstart</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌpstɑ:t</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nowicjusz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upstream</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˌʌpˈstri:m</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>w górę rzeki</trans>
+        <trans>w górę</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>w górze rzeki</trans>
+        <trans>w górze</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upsurge</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌpsɜ:ʤ</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wzrost</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uptake</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈʌpteɪk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <idiom>be quick/slow on the uptake</idiom>
+        <idarex>be V: [:quick | :slow] :on :the :uptake</idarex>
+        <trans>szybko coś łapać</trans>
+        <trans>wolno coś łapać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uptight</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈʌptaɪt</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>spięty</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>up-to-date</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌptəˈdeɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nowoczesny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zorientowany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uptown</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌʌpˈtaʊn</phonetic>
+    </pronunciation>
+    <label>
+      <lang>US</lang>
+    </label>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>od centrum śródmieścia</trans>
+        <trans>od centrum</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>dzielnice poza śródmieściem</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upturn</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌptɜ:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>hossa</trans>
+        <trans>zwyżka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upturned</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌʌpˈtɜ:nd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zadarty</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>odwrócony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upward</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈʌpwəd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>górny</trans>
+        <trans>do góry</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>upwards</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈʌpwədz</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>do góry</trans>
+        <trans>w górę</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>upwards of</idiom>
+        <idarex>:upwards :of</idarex>
+        <trans>ponad</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uranium</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ju:ˈreɪnɪəm</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>uran</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>urban</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈɜ:bən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>miejski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>urbane</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ɜ:ˈbeɪn</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kurtuazyjny</trans>
+        <trans>uprzejmy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>urchin</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈɜ:ʧɪn</phonetic>
+    </pronunciation>
+    <label>przest</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>łobuz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>urge</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ɜ:ʤ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>popęd</trans>
+        <trans>żądza</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>przynaglać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>form</label>
+      </senseinfo>
+      <subsense>
+        <trans>zalecać</trans>
+        <trans>kłaść nacisk</trans>
+        <preposition>
+          <prepsource>sth</prepsource>
+          <preptarget>na coś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>urgency</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈɜ:ʤənsɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nagła potrzeba</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>urgent</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈɜ:ʤənt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pilny</trans>
+        <trans>naglący</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>natarczywy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>urinal</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈjʊərɪnəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pisuar</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>urinate</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈjʊərɪneɪt</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>oddawać mocz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>urine</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈjʊərɪn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>mocz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>urn</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ɜ:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>urna</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>termos na kawę</trans>
+        <trans>termos</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Uruguay</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈjʊərəgwaɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Urugwaj</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Uruguayan</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌjʊərəˈgwaɪən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>urugwajski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>Urugwajczyk</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>usable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈju:zəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zdatny do użycia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>USAF</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅⋅⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>United States Air Force</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>siły powietrzne USA</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>usage</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈju:sɪʤ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>użycie języka</trans>
+        <trans>użycie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>znaczenie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>useful</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈju:sfʊl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>użyteczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>useless</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈju:slɪs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezużyteczny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>beznadziejny</trans>
+        <preposition>
+          <prepsource>at sth</prepsource>
+          <preptarget>w czymś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>user</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈju:zə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>użytkownik</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>usher</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈʌʃə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>prowadzić na miejsce</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>bileter</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>usherette</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌʃərət</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bileterka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>USN</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>United States Navy</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>marynarka USA</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>USS</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>United States Ship</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>statek USA</trans>
+        <trans>okręt USA</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>USSR</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅⋅⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>Union of Soviet Socialist Republics</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ZSRR</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>usual</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈju:ʒʊəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zwyczajny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zwyczajowy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>as usual</idiom>
+        <idarex>:as :usual</idarex>
+        <trans>jak zwykle</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>usually</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈju:ʒʊəlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zazwyczaj</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>usurer</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈju:ʒərə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>lichwiarz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>usurp</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ju:ˈzɜ:p</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>uzurpować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>usury</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈju:ʒərɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>lichwa</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Utah</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈju:tɑ:</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Utah</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>utensil</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ju:ˈtensɪl</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przybór</trans>
+        <trans>przyrząd</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>uterus</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈju:tərəs</phonetic>
+    </pronunciation>
+    <label>med</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>macica</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>utilitarian</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌju:tɪlɪˈteərɪən</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>użytkowy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>utylitarny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>utility</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ju:ˈtɪlɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>użyteczność</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <variant>
+          <spl>public utility</spl>
+        </variant>
+      </senseinfo>
+      <subsense>
+        <trans>usługa komunalna</trans>
+        <trans>przedsiębiorstwo użyteczności publicznej</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>utilize</spl>
+    <spl>utilise</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈju:tɪlaɪz</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>posiłkować się</trans>
+        <trans>stosować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>utmost</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈʌtməʊst</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>najwyższy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>do one's utmost</idiom>
+        <idarex>DE PROPOSS :utmost</idarex>
+        <trans>robić co się da</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>utopia</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ju:ˈtəʊpɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>utopia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>utopian</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ju:ˈtəʊpɪən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>utopijny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>utter</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈʌtə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>wypowiadać</trans>
+        <trans>wydawać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>całkowity</trans>
+        <trans>kompletny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>utterance</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈʌtərəns</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wypowiedź</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>U-turn</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈju: tɜ:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zawrócenie samochodu</trans>
+        <trans>zawrócenie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>do a U-turn</idiom>
+        <idarex>DE a D: U-turn N:</idarex>
+        <trans>zawracać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+</xbdict>

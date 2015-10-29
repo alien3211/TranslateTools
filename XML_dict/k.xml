@@ -1,0 +1,2454 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE xbdict SYSTEM "xbdict.dtd">
+<xbdict>
+<entry>
+  <headword>
+    <spl>kaleidoscope</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kəˈlaɪdəskəʊp</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kalejdoskop</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kangaroo</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌkæŋgəˈru:</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kangur</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Kansas</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkænzəs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Kansas</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>karate</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kəˈrɑ:tɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>karate</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>keel</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ki:l</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kil</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>on an even keel</idiom>
+        <idarex>:on :an :even :keel</idarex>
+        <trans>na równym poziomie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V Phras</pos>
+      <variant>
+        <spl>keel over</spl>
+      </variant>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>wywracać się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>keen</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ki:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>chętny</trans>
+        <preposition>
+          <prepsource>on doing sth do sth</prepsource>
+          <prepsource>on doing to do sth</prepsource>
+          <preptarget>do zrobienia czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>ogrodnik</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>zamiłowany</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>pełen zapału</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>ostry</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>ochota, zainteresowanie</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>wielki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>keenly</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈki:nlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bardzo</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>z uwagą</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>ostro</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>keeper</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈki:pə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dozorca</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>A is not B's keeper</idiom>
+        <idarex>NPRO be V: NEG PROPOSS :keeper</idarex>
+        <trans>A nie jest stróżem B</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>keg</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>keg</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>beczułka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kennel</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkenəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>buda <i>dla psa</i></trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <variant>
+          <spl>kennels</spl>
+        </variant>
+      </senseinfo>
+      <subsense>
+        <trans>schronisko <i>dla psów</i></trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <variant>
+          <spl>kennels</spl>
+        </variant>
+      </senseinfo>
+      <subsense>
+        <trans>hodowla psów</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Kentucky</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kenˈtʌkɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Kentucky</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Kenya</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkenjə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Kenia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Kenyan</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkenjən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kenijski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>Kenijczyk</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kerb</spl>
+    <spl>curb</spl>
+    <lang>US</lang>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kɜ:b</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>krawężnik</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kernel</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkɜ:nəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <indicator>orzecha</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>jądro</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kerosene</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkerəsi:n</phonetic>
+    </pronunciation>
+    <label>
+      <lang>US</lang>
+    </label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nafta</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kestrel</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkestrəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pustułka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>ketchup</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkeʧʌp</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>keczup</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kettle</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈketəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>czajnik</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kettle-drum</spl>
+  </headword>
+  <hwinfo>
+    <pos>N Comp</pos>
+    <pronunciation>
+      <phonetic>ˈketəldrʌm</phonetic>
+    </pronunciation>
+    <label>muz</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kocioł</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>key</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ki:</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>klucz <i>także w muzyce</i></trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>klawisz</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>legenda</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kluczowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>keyboard</spl>
+  </headword>
+  <hwinfo>
+    <pos>N Comp</pos>
+    <pronunciation>
+      <phonetic>ˈki:bɔ:d</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>klawiatura</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>keyhole</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈki:həʊl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dziurka od klucza</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>keynote</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈki:nəʊt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>program</trans>
+        <trans>hasło</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>keyword</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈki:wɜ:d</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>słowo kluczowe</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>khaki</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkɑ:kɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>khaki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kick-off</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkɪkɒf</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>początek meczu piłkarskiego</trans>
+        <trans>początek</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kid</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>kɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>dzieciak</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>koźlę</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zamsz</trans>
+        <trans>ircha</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+        <indicator>np. brat</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>młodszy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+        <indicator>oszukiwać</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>nabierać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <indicator>natrząsać się</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>nabijać się</trans>
+        <preposition>
+          <prepsource>sb</prepsource>
+          <preptarget>nad kimś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <idiom>No kidding!</idiom>
+        <idarex>:no :kidding</idarex>
+        <trans>Słowo daję!</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kidnap</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkɪdnæp</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>porywać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>porwanie</trans>
+        <trans>kidnaping</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kidney</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkɪdnɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nerka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kill</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>kɪl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zabijać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>wykańczać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>nadzieję, przyjaźń, dane</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>niszczyć</trans>
+        <trans>usuwać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zdobycz</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zabijanie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V Phras</pos>
+      <variant>
+        <spl>kill off</spl>
+      </variant>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>załatwiać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>killer</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkɪlə</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zabójca</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>killing</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkɪlɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zabójczy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zabójstwo</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <idiom>make a killing</idiom>
+        <idarex>make V: :a :killing</idarex>
+        <trans>zbijać forsę</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kiln</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kɪln</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>piec garncarski</trans>
+        <trans>piec</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kilo</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈki:ləʊ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kilogram</trans>
+        <trans>kilo</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kilogram</spl>
+    <spl>kilogramme</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkɪləgrəm</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kilogram</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kilometre</spl>
+    <spl>kilometer</spl>
+    <lang>US</lang>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkɪləmi:tə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kilometr</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kilt</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kɪlt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kilt <i>spódniczka szkocka</i></trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kin</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kɪn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <label>przest</label>
+      </senseinfo>
+      <subsense>
+        <trans>krewni</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kind</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>kaɪnd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>rodzaj</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>miły</trans>
+        <trans>uprzejmy</trans>
+        <preposition>
+          <prepsource>to sb</prepsource>
+          <preptarget>dla kogoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>miło</trans>
+        <trans>uprzejmie</trans>
+        <preposition>
+          <prepsource>of sb</prepsource>
+          <preptarget>z czyjejś strony</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <idiom>kind of</idiom>
+        <idarex>:kind% of</idarex>
+        <trans>pewien rodzaj</trans>
+        <trans>rodzaj</trans>
+      </subsense>
+      <subsense>
+        <example>a kind of fruit</example>
+        <trans>rodzaj owocu</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label><lang>US</lang> nieform</label>
+      </senseinfo>
+      <subsense>
+        <idiom>kind of</idiom>
+        <idarex>:kind% of</idarex>
+        <trans>dość</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>of a kind</idiom>
+        <idarex>:of :a :kind</idarex>
+        <trans>swego rodzaju</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>be *kind enough/so kind as* to do sth</idiom>
+        <idarex>be V: [:kind :enough | :so :kind :as] :to V</idarex>
+        <trans>być uprzejmym coś zrobić</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kindergarten</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkɪndəgɑ:tən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przedszkole</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kind-hearted</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌkaɪndˈhɑ:tɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dobrotliwy</trans>
+        <trans>życzliwy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kindle</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈkɪndəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozniecać</trans>
+        <trans>rozpalać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kindling</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkɪndlɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>drewno na rozpałkę</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kindly</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkaɪndlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>uprzejmy</trans>
+        <trans>życzliwy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>łaskawie</trans>
+      </subsense>
+      <subsense>
+        <example>kindly take it away</example>
+        <trans>bądź łaskaw to zabrać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>uprzejmie</trans>
+        <trans>życzliwie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>look kindly on sth</idiom>
+        <idarex>look V: :kindly :on</idarex>
+        <trans>spoglądać łaskawym okiem na coś</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>not to take kindly to sth</idiom>
+        <idarex>take V: NEG :kindly :to</idarex>
+        <trans>nie odnosić się życzliwie do czegoś</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kindness</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkaɪndnɪs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>życzliwość</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>uprzejmość</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>przysługa</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kindred</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈkɪndrɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pokrewny</trans>
+        <trans>braterski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>king</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>król</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kingdom</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkɪŋdəm</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>królestwo</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kingfisher</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkɪŋfɪʃə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zimorodek</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kink</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkɪŋk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>skręt</trans>
+        <trans>zwój</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kinky</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈkɪŋkɪ</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>perwersyjny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kiosk</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈki:ɒsk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kiosk</trans>
+        <trans>budka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kipper</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkɪpə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wędzony śledź</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kiss</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>kɪs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>całować</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>pocałunek</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kit</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zestaw</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>ubiór sportowy</trans>
+        <trans>ubiór</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kitchen</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈkɪʧən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kuchnia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kuchenny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kite</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kaɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>latawiec</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kitten</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkɪtən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kociak</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kitty</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pula</trans>
+        <trans>wspólne pieniądze</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kiwi</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈki:wɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <indicator>ptak</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>kiwi</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>kiwi fruit</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈki:wɪ ˌfru:t</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <indicator>owoc</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>kiwi</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knack</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>næk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>talent</trans>
+        <preposition>
+          <prepsource>of sth</prepsource>
+          <prepsource>for doing sth</prepsource>
+          <preptarget>do czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knave</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>neɪv</phonetic>
+    </pronunciation>
+    <label>przest</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>szelma</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knead</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ni:d</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>miesić</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knee</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ni:</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kolano</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>bring sb to his knees</idiom>
+        <idarex>bring V: NPRO :to PROPOSS :knees</idarex>
+        <trans>powalić kogoś na kolana</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kneecap</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈni:kæp</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rzepka <i>kolana</i></trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knee-deep</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌnɪ:ˈdi:p</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>po kolana</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knickers</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɪkəz</phonetic>
+    </pronunciation>
+    <label><lang>BR</lang> nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>majtki luźniejsze</trans>
+        <trans>majtki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knicks-knacks</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɪksnæks</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ozdóbki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knight</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>naɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>rycerz</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <gloss>tytuł szlachecki -- nie tłumaczy się</gloss>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>szach</label>
+      </senseinfo>
+      <subsense>
+        <trans>skoczek</trans>
+        <trans>konik</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>uszlachcać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knighthood</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪthʊd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>szlachectwo</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knit</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>dziergać</trans>
+        <trans>robić na drutach</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zespolony</trans>
+        <trans>związany</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>knit one's brows</idiom>
+        <idarex>knit V: PROPOSS :brows</idarex>
+        <trans>ściągać brwi</trans>
+        <trans>marszczyć brwi</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knitting</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɪtɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>robótka</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>robienie na drutach</trans>
+        <trans>dzierganie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knitwear</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɪtweə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dzianina</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knob</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɒb</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>gałka</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>pokrętło</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knobbly</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɒblɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zwęźlony</trans>
+        <trans>guzowaty</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knocker</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɒkə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kołatka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knock-out</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnɒkaʊt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nokaut</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>sport</label>
+      </senseinfo>
+      <subsense>
+        <trans>eliminacyjny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knoll</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nəʊl</phonetic>
+    </pronunciation>
+    <label>lit</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wzgórek</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knotty</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɒtɪ</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>poplątany</trans>
+        <trans>zawiły</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>know</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>nəʊ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>znać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>wiedzieć</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>słyszeć</trans>
+        <preposition>
+          <prepsource>of</prepsource>
+          <prepsource>about</prepsource>
+          <preptarget>o</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>odróżniać</trans>
+        <preposition>
+          <prepsource>A from B</prepsource>
+          <preptarget>A od B</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>let sb know</idiom>
+        <idarex>let V: PROP :know</idarex>
+        <trans>dać komuś znać</trans>
+        <preposition>
+          <prepsource>about sth</prepsource>
+          <preptarget>o czymś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>get to know</idiom>
+        <idarex>get V: :to :know</idarex>
+        <trans>poznać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>know better</idiom>
+        <idarex>know V: :better</idarex>
+        <trans>dobrze zdawać sobie sprawę</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>``You know''</idiom>
+        <idarex>:you :know</idarex>
+        <trans>,,Wiesz''</trans>
+        <trans>,,Wiecie''</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>you never know</idiom>
+        <idarex>:you :never :know</idarex>
+        <trans>nigdy nic nie wiadomo</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>be in the know</idiom>
+        <idarex>be V: :in :the :know</idarex>
+        <trans>być wtajemniczonym</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>know-how</spl>
+  </headword>
+  <hwinfo>
+    <pos>N Comp</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊhaʊ</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wiedza</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knowing</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>porozumiewawczy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knowingly</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊɪŋlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>z premedytacją</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>porozumiewawczo</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knowledge</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɒlɪʤ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wiedza</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>to sb's knowledge</idiom>
+        <idarex>:to PROPOSS :knowledge</idarex>
+        <trans>zgodnie z czyimiś informacjami</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>to the best of sb's knowledge</idiom>
+        <idarex>:to :the :best :of PROPOSS :knowledge</idarex>
+        <trans>o ile komuś wiadomo</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knowledgeable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɒlɪʤebəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dobrze poinformowany</trans>
+        <trans>poinformowany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Knt.</spl>
+  </headword>
+  <hwinfo>
+    <xr>
+      <xrentry>Knight</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rycerz</trans>
+        <trans>szlachcic</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>knuckle</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnʌkəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kostka <i>dłoni</i></trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>ko</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>knock out</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nokaut</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Koran</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kɔ:ˈrɑ:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <idiom>the Koran</idiom>
+        <idarex>:the :Koran</idarex>
+        <trans>Koran</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Korea</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kəˈrɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Korea</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Korean</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>kəˈrɪən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>koreański</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>Koreańczyk</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kosher</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈkəʊʃə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>koszerny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kph</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>kilometres per hour</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>km</trans>
+        <trans>godz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Kt.</spl>
+  </headword>
+  <hwinfo>
+    <xr>
+      <xrentry>Knight</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rycerz</trans>
+        <trans>szlachcic</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>kudos</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈkju:dəs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>sława</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Kuwait</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>kʊˈweɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Kuwejt</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Kuwaiti</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>kʊˈweɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kuwejcki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>Kuwejtczyk</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+</xbdict>

@@ -1,0 +1,8197 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE xbdict SYSTEM "xbdict.dtd">
+<xbdict>
+<entry>
+  <headword>
+    <spl>N</spl>
+  </headword>
+  <hwinfo>
+    <xr>
+      <xrentry>north</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>północ</trans>
+        <trans>północny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nab</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>næb</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przyłapywać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nadir</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈneɪdɪə</phonetic>
+    </pronunciation>
+    <label>lit</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zenit</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nag</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>næg</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nudzić</trans>
+        <trans>nagabywać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zanudzać gderaniem</trans>
+        <preposition>
+          <prepsource>at sb</prepsource>
+          <preptarget>kogoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>dręczyć</trans>
+        <preposition>
+          <prepsource>at sb</prepsource>
+          <preptarget>kogoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nail</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>neɪl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>gwóźdź</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>paznokieć</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>przybijać gwoździami</trans>
+        <trans>przybijać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>hit the nail on the head</idiom>
+        <idarex>hit V: :the :nail :on :the :head</idarex>
+        <trans>trafić w samo sedno</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V Phras</pos>
+      <variant>
+        <spl>nail down</spl>
+      </variant>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>przybijać gwoździami</trans>
+        <trans>przybijać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>przen</label>
+      </senseinfo>
+      <subsense>
+        <trans>przygważdżać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>nail file</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈneɪlfaɪl</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>pilnik do paznokci</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V Phras</pos>
+      <variant>
+        <spl>nail up</spl>
+      </variant>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>przybijać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>naïve</spl>
+    <spl>naive</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>naɪˈi:v</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>naiwny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>naked</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈneɪkɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nagi</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>goły</trans>
+        <trans>nieosłonięty</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>widoczny gołym okiem</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>odkryty</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>to/with the naked eye</idiom>
+        <idarex>[:to | :with] :the :naked :eye</idarex>
+        <trans>gołym okiem</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>name-dropping</spl>
+  </headword>
+  <hwinfo>
+    <pos>N Comp</pos>
+    <pronunciation>
+      <phonetic>ˈneɪmdrɒpɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przerzucanie się nazwiskami sławnych ludzi <i>by pokazać własną ważność</i></trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nameless</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈneɪmlɪs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezimienny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nienazwany</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>lit</label>
+      </senseinfo>
+      <subsense>
+        <trans>niewypowiedziany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>namely</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈneɪmlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>mianowicie</trans>
+        <trans>to jest</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>namesake</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈneɪmseɪk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>imiennik</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nanny</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnænɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>niania</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>nanny goat</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈnænɪ gəʊt</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>koza</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nap</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>næp</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>drzemka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>drzemać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>take a nap</idiom>
+        <idarex>take V: :a :nap</idarex>
+        <trans>zdrzemnąć się</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>be caught napping</idiom>
+        <idarex>be V: :caught :napping</idarex>
+        <trans>być schwytanym znienacka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nape</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>neɪp</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kark</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>napkin</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnæpkɪn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>serwetka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Naples</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈneɪplz</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Neapol</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>napoleon</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nəˈpəʊlɪən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>napoleonka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nappy</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnæpɪ</phonetic>
+    </pronunciation>
+    <label>
+      <lang>BR</lang>
+    </label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pieluszka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>narcissus</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɑ:ˈsɪsəs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>narcyz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>narcotic</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɑ:ˈkɒtɪk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>narkotyk</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>narrate</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>nəˈreɪt</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przedstawiać</trans>
+        <trans>opowiadać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>narration</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nəˈreɪʃən</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>narracja</trans>
+        <trans>fabularyzacja</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>narrative</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnærətɪv</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>narracja</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>narracyjny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>narrow</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnærəʊ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>wąski</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>pogląd</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>ciasny</trans>
+        <trans>ograniczony</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>większość</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>nieznaczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <indicator>np. o przejściu</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>zwężać się</trans>
+        <trans>zwężać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>o różnicy</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>zmniejszać się</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>oczy</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>przymykać</trans>
+        <trans>przymrużać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>a narrow victory</idiom>
+        <idarex>:a :narrow :victory</idarex>
+        <trans>nieznaczne zwycięstwo</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>a narrow defeat</idiom>
+        <idarex>:a :narrow :defeat</idarex>
+        <trans>nieznaczna przegrana</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>narrow escape</idiom>
+        <idarex>:narrow :escape</idarex>
+        <trans>prawie niemożliwe wyjście z sytuacji</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V Phras</pos>
+      <variant>
+        <spl>narrow down</spl>
+      </variant>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zawężać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>narrow-minded</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌnærəʊˈmaɪndɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ograniczony</trans>
+        <trans>o ciasnych horyzontach</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nasal</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈneɪzəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nosowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nasty</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɑ:stɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>paskudny</trans>
+        <trans>nieprzyjemny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>obrzydliwy</trans>
+        <trans>do niczego</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>ciężki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nat.</spl>
+  </headword>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+      <xr>
+        <xrentry>national</xrentry>
+      </xr>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>narodowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+      <xr>
+        <xrentry>native</xrentry>
+      </xr>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>rodzimy</trans>
+        <trans>krajowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+      <xr>
+        <xrentry>natural</xrentry>
+      </xr>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>naturalny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nation</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈneɪʃən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>naród</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>kraj</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>national</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnæʃənəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>narodowy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>państwowy</trans>
+        <trans>krajowy</trans>
+      </subsense>
+      <subsense>
+        <example>national anthem</example>
+        <trans>hymn państwowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>obywatel</trans>
+        <trans>człowiek określonej narodowości</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>national service</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˌnæʃənəl ˈsɜ:vɪs</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <indicator>obowiązkowa</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>służba wojskowa</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nationalise</spl>
+    <spl>nationalize</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈnæʃənəlaɪz</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nacjonalizować</trans>
+        <trans>upaństwawiać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nationalism</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnæʃənəlɪzəm</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nacjonalizm</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>patriotyzm</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nationalist</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnæʃənəlɪst</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nacjonalistyczny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>patriotyczny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>niepodległościowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nacjonalista</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>patriota</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>bojownik o niepodległość</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nationalistic</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌnæʃənəˈlɪstɪk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nacjonalistyczny</trans>
+        <trans>patriotyczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nationality</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌnæʃəˈnælɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>narodowość</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nationalize</spl>
+    <spl>nationalise</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈnæʃənəlaɪz</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nacjonalizować</trans>
+        <trans>upaństwawiać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nationwide</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈneɪʃənwaɪd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>ogólnokrajowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>w całym kraju</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>native</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈneɪtɪv</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>rodzinny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>rodzimy</trans>
+        <trans>rodzimy</trans>
+        <preposition>
+          <prepsource>to</prepsource>
+          <preptarget>dla</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>ojczysty</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>rodowity</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>krajowiec</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>NATO</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈneɪtəʊ</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>North Atlantic Treaty Organization</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Pakt Północnoatlantycki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>natter</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈnætə</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pogadać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>have a natter</idiom>
+        <idarex>have V: :a :natter</idarex>
+        <trans>pogadać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>natural</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnæʧərəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>naturalny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>urodzony</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>muz</label>
+      </senseinfo>
+      <subsense>
+        <trans>podstawowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>urodzony mistrz</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>natural causes</idiom>
+        <idarex>:natural :causes</idarex>
+        <trans>przyczyny naturalne</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>naturalist</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnæʧərəlɪst</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przyrodnik</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>naturalized</spl>
+    <spl>naturalised</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnæʧərəlaɪzd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>naturalizowany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>naturally</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈnæʧərəlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>naturalnie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>oczywiście</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nature</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈneɪʧə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>natura</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>przyroda</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>istota</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>by (sb's) nature</idiom>
+        <idarex>:by PROPOSS :nature</idarex>
+        <trans>z natury</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>naught</spl>
+  </headword>
+  <hwinfo>
+    <pos>Num</pos>
+    <pronunciation>
+      <phonetic>nɔ:t</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <label>przest</label>
+      </senseinfo>
+      <subsense>
+        <trans>zero</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>naughty</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɔ:tɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niegrzeczny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nieładny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nausea</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɔ:sɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nudności</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nauseate</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈnɔ:sɪeɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przyprawiać o nudności</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nautical</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɔ:tɪkəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>żeglarski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>naval</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈneɪvəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>morski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nave</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>neɪv</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nawa</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>navel</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈneɪvəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pępek</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>navigable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnævɪgəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>żeglowny</trans>
+        <trans>spławny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>navigate</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈnævɪgeɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>żeglować</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>prowadzić</trans>
+        <trans>pilotować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>navigation</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌnævɪˈgeɪʃən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>żegluga</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nawigacja</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>navigator</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnævɪgeɪtə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nawigator</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>navy</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈneɪvɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>marynarka wojenna</trans>
+        <trans>marynarka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <variant>
+          <spl>navy-blue</spl>
+        </variant>
+      </senseinfo>
+      <subsense>
+        <trans>granatowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nay</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>neɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <label>przest</label>
+      </senseinfo>
+      <subsense>
+        <trans>a nie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>n.b.</spl>
+    <spl>nota bene</spl>
+    <lang>łacina</lang>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>note well</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>notabene</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>NCO</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>non-commissioned officer</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>podoficer</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>NE</spl>
+  </headword>
+  <hwinfo>
+    <xr>
+      <xrentry>north-east</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>płn.-wsch.</trans>
+        <trans>północno-wschodni</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>near</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>bliski</trans>
+        <preposition>
+          <prepsource>to sth</prepsource>
+          <preptarget>czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>blisko</trans>
+        <preposition>
+          <prepsource>to sth</prepsource>
+          <preptarget>czegoś</preptarget>
+          <preptarget>do czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>prawie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zbliżać się</trans>
+        <trans>dochodzić</trans>
+        <preposition>
+          <prepsource>sth</prepsource>
+          <preptarget>do czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>the nearest (thing) to sth</idiom>
+        <idarex>:the :nearest NP :to NP</idarex>
+        <trans>odpowiednik czegoś</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>the Near East</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˌnɪərˈi:st</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>Bliski Wschód</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nearby</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɪəbaɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pobliski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nearly</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈnɪəlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>prawie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>not nearly</idiom>
+        <idarex>:not :nearly</idarex>
+        <trans>dużo za mało</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neat</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ni:t</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>elegancki</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>porządny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nierozcieńczony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Nebraska</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nəˈbræskə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Nebraska</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nebulous</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnebjələs</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>mglisty</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>necessarily</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈnesəsərɪlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieod</trans>
+        <trans>-zownie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>necessary</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnesəsərɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>potrzebny</trans>
+        <trans>niezbędny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>form</label>
+      </senseinfo>
+      <subsense>
+        <trans>konieczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>necessitate</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>nɪˈsesɪteɪt</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>czynić koniecznym</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>necessity</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɪˈsesɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>konieczność</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>rzecz nieodzowna</trans>
+        <trans>rzecz niezbędna</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>of necessity</idiom>
+        <idarex>:of :necessity</idarex>
+        <trans>z konieczności</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>necklace</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈneklɪs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kolia</trans>
+        <trans>naszyjnik</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neckline</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈneklaɪn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wycięcie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>necktie</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnektaɪ</phonetic>
+    </pronunciation>
+    <label>
+      <lang>US</lang>
+    </label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>krawat</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nectar</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnektə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nektar</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>need</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ni:d</phonetic>
+    </pronunciation>
+    <label>GRAM</label>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>potrzebować</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>odczuwać potrzebę</trans>
+        <preposition>
+          <prepsource>to do sth</prepsource>
+          <preptarget>robienia czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>musieć</trans>
+        <preposition>
+          <prepsource>to do sth</prepsource>
+          <preptarget>robić coś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>wymagać</trans>
+        <trans>trzeba</trans>
+      </subsense>
+      <subsense>
+        <example>sth needs doing</example>
+        <trans>coś trzeba zrobić</trans>
+      </subsense>
+      <subsense>
+        <example>sth needs to be done</example>
+        <trans>coś wymaga zrobienia czegoś</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>potrzeba</trans>
+        <preposition>
+          <prepsource>for sth</prepsource>
+          <prepsource>of sth</prepsource>
+          <preptarget>czegoś</preptarget>
+          <prepsource>to do sth</prepsource>
+          <preptarget>zrobienia czegoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>need not</idiom>
+        <idarex>:need :not</idarex>
+        <trans>nie musieć</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>be in need of</idiom>
+        <idarex>be V: :in :need :of</idarex>
+        <trans>potrzebować</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>in need</idiom>
+        <idarex>:in :need</idarex>
+        <trans>w potrzebie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>there is no need to do sth</idiom>
+        <idarex>:there be V: :no :need :to VERB</idarex>
+        <trans>nie trzeba robić czegoś</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>needle</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈni:dəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>igła</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>drut <i>do robótek</i></trans>
+        <trans>szydełko</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>przypiekać</trans>
+        <trans>wbijać szpilki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>needless</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈni:dlɪs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niepotrzebny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>needless to say</idiom>
+        <idarex>:needless :to :say</idarex>
+        <trans>nie trzeba dodawać</trans>
+        <trans>nie trzeba mówić</trans>
+        <trans>oczywiście</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>needlework</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈni:dəlwɜ:k</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>robótki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>needy</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈni:dɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>potrzebujący</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>negate</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>nɪˈgeɪt</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>negować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>negation</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɪˈgeɪʃən</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>negacja</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>negative</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnegətɪv</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>negatywny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>ujemny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>negatyw</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>in the negative</idiom>
+        <idarex>:in :the :negative</idarex>
+        <trans>negatywnie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neglect</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nɪˈglekt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zaniedbywać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zapominać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zaniedbanie</trans>
+        <trans>niedopatrzenie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neglectful</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>nɪˈglektfʊl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niedbały</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>be neglectful of sth</idiom>
+        <idarex>be V: :neglectful :of</idarex>
+        <trans>zaniedbywać coś</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>negligée</spl>
+    <spl>negligee</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈneglɪʒeɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>prześwitujący szlafrok</trans>
+        <trans>szlafrok</trans>
+        <trans>szlafroczek</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>negligent</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈneglɪʤənt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niedbały</trans>
+        <trans>opieszały</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>negligible</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈneglɪʤəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieistotny</trans>
+        <trans>mało znaczący</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>negotiable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>nɪˈgəʊʃəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>możliwy do ustalenia</trans>
+        <trans>możliwy do zrealizowania</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>negotiate</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>nɪˈgəʊʃɪeɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>negocjować</trans>
+        <preposition>
+          <prepsource>with</prepsource>
+          <preptarget>z</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>prowadzić negocjacje</trans>
+        <preposition>
+          <prepsource>with sb for</prepsource>
+          <preptarget>z kimś w sprawie</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>pokonywać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>negotiation</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɪˌgəʊʃɪˈeɪʃən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <variant>
+          <spl>negotiations</spl>
+        </variant>
+      </senseinfo>
+      <subsense>
+        <trans>negocjacje</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>negotiator</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɪˈgəʊʃɪeɪtə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>negocjator</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Negress</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈni:grɪs</phonetic>
+    </pronunciation>
+    <label>pejor</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Murzynka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Negro</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈni:grəʊ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <label>termin</label>
+      </senseinfo>
+      <subsense>
+        <trans>Murzyn</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>pejor</label>
+      </senseinfo>
+      <subsense>
+        <trans>czarnuch</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neigh</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>neɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rżeć</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neighbour</spl>
+    <spl>neighbor</spl>
+    <lang>US</lang>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈneɪbə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>sąsiad</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>bliźni</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neighbourhood</spl>
+    <spl>neighborhood</spl>
+    <lang>US</lang>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈneɪbəhʊd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>sąsiedztwo</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>dzielnica</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>pobliski</trans>
+        <trans>sąsiedni</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neighbouring</spl>
+    <spl>neighboring</spl>
+    <lang>US</lang>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈneɪbərɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>sąsiedni</trans>
+        <trans>sąsiadujący</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neighbourly</spl>
+    <spl>neighborly</spl>
+    <lang>US</lang>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈneɪbəlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dobrosąsiedzki</trans>
+        <trans>przyjazny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neither</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnaɪðə, ˈni:ðə</phonetic>
+    </pronunciation>
+    <label>GRAM</label>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Det</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>żaden z dwóch</trans>
+        <trans>żaden</trans>
+        <preposition>
+          <prepsource>of</prepsource>
+          <preptarget>z</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>też nie</trans>
+      </subsense>
+      <subsense>
+        <example>he is not going -- neither am I</example>
+        <trans>on nie idzie -- ja też nie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>neither ... nor ...</idiom>
+        <idarex>:neither NP :nor NP</idarex>
+        <trans>ani ... ani ...</trans>
+      </subsense>
+      <subsense>
+        <example>neither he nor she</example>
+        <trans>on ani ona</trans>
+      </subsense>
+      <subsense>
+        <example>neither he nor she</example>
+        <trans>ani on ani ona</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neon</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈni:ɒn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>neon</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>neonowy</trans>
+        <trans>oświetlony neonami</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>neon light</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈni:ɒn laɪt</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>neon</trans>
+        <trans>reklama neonowa</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>oświetlenie neonowe</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Nepal</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɪˈpɔ:l</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Nepal</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Nepalese</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌnepəˈli:z</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nepalski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>Nepalczyk</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Nepali</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nəˈpɔ:lɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nepalski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>Nepalczyk</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nephew</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnevjʊ:, ˈnefju:</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>siostrzeniec</trans>
+        <trans>bratanek</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nerve</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɜ:v</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nerw</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>odwaga</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <idiom>get on sb's nerves</idiom>
+        <idarex>get V: :on PROPOSS :nerves</idarex>
+        <trans>działać komuś na nerwy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>sb loses his nerves</idiom>
+        <idarex>NPRO lose V: PROPOSS :nerves</idarex>
+        <trans>kogoś nerwy ponoszą</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>have the/a nerve to do sth</idiom>
+        <idarex>have V: [:the | :a] :nerve :to VERB</idarex>
+        <trans>mieć tupet coś zrobić</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>a fit/attack of nerves</idiom>
+        <idarex>a D: [ fit N: | attack N:] :of :nerves</idarex>
+        <trans>panika</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nerve-racking</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɜ:vrækɪŋ</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nerwowy</trans>
+        <trans>denerwujący</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nervous</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɜ:vəs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nerwowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nest</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nest</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>gniazdo</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>gnieździć się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nestle</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈnesəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wtulać się</trans>
+        <trans>przytulać się</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>usadawiać się</trans>
+        <trans>być usadowiony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>net</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>net</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>siatka</trans>
+        <trans>sieć</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>waga, zysk</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>netto</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <indicator>zysk, pieniądze</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>przynosić na czysto</trans>
+        <trans>wynosić netto</trans>
+        <preposition>
+          <prepsource>for</prepsource>
+          <preptarget>dla</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <indicator>rezultat, wynik</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>końcowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>łapać w sieć</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>majątek</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>zbijać</trans>
+        <trans>osiągać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>net curtain</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˌnet ˈkɜ:tən</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>firanka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Netherlands</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈneðələndz</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <idiom>the Netherlands</idiom>
+        <idarex>:the :Netherlands</idarex>
+        <trans>Niderlandy</trans>
+        <trans>Holandia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>netting</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnetɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>siatka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nettle</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnetəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pokrzywa</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>network</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnetwɜ:k</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>sieć</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>układ <i>np. krążenia</i></trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neurosis</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>njʊəˈrəʊsɪs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nerwica</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neurotic</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>njʊəˈrɒtɪk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>neurotyczny</trans>
+        <trans>znerwicowany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neuter</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnju:tə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <label>gram</label>
+      </senseinfo>
+      <subsense>
+        <trans>nijaki</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>biol</label>
+      </senseinfo>
+      <subsense>
+        <trans>obojnaczy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neutral</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnju:trəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>neutralny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>twarz, oczy</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>obojętny</trans>
+        <trans>bez wyrazu</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>przewód elektr.</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>zerowy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>kolor</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>bezbarwny</trans>
+        <trans>neutralny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <indicator>w samochodzie</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>bieg jałowy</trans>
+        <trans>luz</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>w konflikcie</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>strona neutralna</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neutrality</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nju:ˈtrælɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>neutralność</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neutralize</spl>
+    <spl>neutralise</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈnju:trəlaɪz</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>blokować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>neutron</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnju:trən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>termin</label>
+      </senseinfo>
+      <subsense>
+        <trans>neutron</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>termin</label>
+      </senseinfo>
+      <subsense>
+        <trans>neutronowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Nevada</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɪˈvɑ:də</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Newada</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>never</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈnevə</phonetic>
+    </pronunciation>
+    <label>GRAM</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nigdy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>w ogóle nie</trans>
+      </subsense>
+      <subsense>
+        <example>he never came</example>
+        <trans>w ogóle nie przyszedł</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nevertheless</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˌnevəðəˈles</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jednak</trans>
+        <trans>niemniej</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>newborn</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnju:bɔ:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nowonarodzony</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>newcomer</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnju:kʌmə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>przybysz</trans>
+        <preposition>
+          <prepsource>to sth</prepsource>
+          <preptarget>dokądś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>new-fangled</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌnju:ˈfæŋgəld</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nowomodny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>newly</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈnju:lɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nowo</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>news</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nju:z</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <variant>
+          <spl>the news</spl>
+        </variant>
+      </senseinfo>
+      <subsense>
+        <trans>wiadomości</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>news agency</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈnju:zeɪʤənsɪ</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>agencja prasowa</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>newsagent</spl>
+    <spl>newsagent's</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnju:zˌeɪʤənt(s)</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kioskarz</trans>
+        <trans>kiosk</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>newscaster</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnju:zkɑ:stə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>prezenter</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>newsdealer</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnju:zˌdi:lər</phonetic>
+    </pronunciation>
+    <label>
+      <lang>US</lang>
+    </label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kioskarz</trans>
+        <trans>kiosk</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>newsflash</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnju:zflæʃ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wiadomość z ostatniej chwili</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>newsletter</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnju:zletə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>biuletyn</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>newspaper</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnju:zpeɪpə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>gazeta</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>newsprint</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnju:zprɪnt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>papier gazetowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>newsreel</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnju:zri:l</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kronika filmowa</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>newt</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nju:t</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>traszka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>NHS</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>National Health Service</xrentry>
+    </xr>
+    <label>
+      <lang>BR</lang>
+    </label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Państwowa Służba Zdrowia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nib</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɪb</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>stalówka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nibble</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈnɪbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <indicator>jedzenie</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>skubać</trans>
+        <preposition>
+          <prepsource>at sth</prepsource>
+          <prepsource>on sth</prepsource>
+          <preptarget>coś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>NIC</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅⋅$ˈ$⋅$, nɪk</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>Newly Independent Countries</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nowe państwa niepodległe <i>z byłego ZSRR</i></trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nice</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>naɪs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <label>form</label>
+      </senseinfo>
+      <subsense>
+        <trans>delikatny</trans>
+        <trans>subtelny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>przyjemny</trans>
+        <trans>fajny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>miły</trans>
+        <preposition>
+          <prepsource>to sb</prepsource>
+          <preptarget>dla kogoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nicely</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪslɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dobrze</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nicety</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪsɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>subtelność</trans>
+        <trans>szczegół</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>niche</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ni:ʃ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nisza</trans>
+        <trans>wgłębienie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>przen</label>
+      </senseinfo>
+      <subsense>
+        <trans>miejsce</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nick</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nɪk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zacinać</trans>
+        <preposition>
+          <prepsource>oneself</prepsource>
+          <preptarget>się</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>podprowadzić</trans>
+        <trans>zwędzić</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nacięcie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>in the nick of time</idiom>
+        <idarex>:in :the :nick :of :time</idarex>
+        <trans>w ostatniej chwili</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nickel</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɪkəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nikiel</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>pięciocentówka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nickname</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnɪkneɪm</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>przezwisko</trans>
+        <trans>przydomek</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>przezywać</trans>
+        <trans>nadawać przydomek</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nicotine</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɪkəti:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nikotyna</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>niece</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ni:s</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bratanica</trans>
+        <trans>siostrzenica</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Nigeria</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>naɪˈʤɪərɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Nigeria</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Nigerian</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>naɪˈʤɪərɪən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nigeryjski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>Nigeryjczyk</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>niggardly</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɪgədlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>skąpy</trans>
+        <trans>szczupły</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>skąpy</trans>
+        <trans>powściągliwy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>niggle</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈnɪgəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dokuczać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>czepiać się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nightcap</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪtkæp</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kieliszek przed spaniem</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nightdress</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪtdres</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>koszula nocna</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nightfall</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪtfɔ:l</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zmierzch</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nightgown</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪtgaʊn</phonetic>
+    </pronunciation>
+    <label>
+      <lang>US</lang>
+    </label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>koszula nocna</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nightie</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪtɪ</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>koszulka nocna</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nightingale</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪtɪŋgeɪl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>słowik</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nightlife</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪtlaɪf</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>życie nocne</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nightly</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪtlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wieczorny</trans>
+        <trans>wieczorem</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nightmare</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪtmeə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zły sen</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>koszmar</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nightmarish</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪtmeərɪʃ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>koszmarny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>night-time</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪttaɪm</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>noc</trans>
+        <trans>ciemność</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>night-watchman</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌnaɪtˈwɒʧmən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>stróż nocny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nil</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɪl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zero</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nimble</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɪmbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zwinny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>lotny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nine</spl>
+  </headword>
+  <hwinfo>
+    <pos>Num</pos>
+    <pronunciation>
+      <phonetic>naɪn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dziewięć</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nineteen</spl>
+  </headword>
+  <hwinfo>
+    <pos>Num</pos>
+    <pronunciation>
+      <phonetic>ˌnaɪnˈti:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dziewiętnaście</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nineteenth</spl>
+  </headword>
+  <hwinfo>
+    <pos>Num</pos>
+    <pronunciation>
+      <phonetic>ˌnaɪnˈti:nθ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dziewiętnasty</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>ninetieth</spl>
+  </headword>
+  <hwinfo>
+    <pos>Num</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪntɪɪθ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dziewięćdziesiąty</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>ninety</spl>
+  </headword>
+  <hwinfo>
+    <pos>Num</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪntɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dziewięćdziesiąt</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>ninth</spl>
+  </headword>
+  <hwinfo>
+    <pos>Num</pos>
+    <pronunciation>
+      <phonetic>naɪnθ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dziewiąty</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nip</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nɪp</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>wyskakiwać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>szczypać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>szczypnięcie</trans>
+        <trans>ukąszenie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nipple</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɪpəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>sutek</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>
+          <lang>US</lang>
+        </label>
+      </senseinfo>
+      <subsense>
+        <trans>smoczek</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nippy</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɪpɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>żwawy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>chłodny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nit</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>gnida</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label><lang>BR</lang> nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>debil</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nitrogen</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪtrəʤən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>azot</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>no</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nəʊ</phonetic>
+    </pronunciation>
+    <label>GRAM</label>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Det</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>w odpowiedzi na stwierdzenie z przeczeniem</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>tak</trans>
+      </subsense>
+      <subsense>
+        <example>it is not easy -- no, it is quite difficult</example>
+        <trans>to nie jest łatwe -- tak, to całkiem trudne</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Pron</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>żaden</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>form</label>
+      </senseinfo>
+      <subsense>
+        <trans>wzbronione</trans>
+        <trans>zabrania się</trans>
+      </subsense>
+      <subsense>
+        <example>no smoking</example>
+        <trans>palenie wzbronione</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>no.</spl>
+    <spl>numero</spl>
+    <lang>łacina</lang>
+  </headword>
+  <hwinfo>
+    <xr>
+      <xrentry>number</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nr</trans>
+        <trans>numer</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nobility</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nəʊˈbɪlɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>szlachetność</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>szlachectwo</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <variant>
+          <spl>the nobility</spl>
+        </variant>
+      </senseinfo>
+      <subsense>
+        <trans>szlachta</trans>
+        <trans>wyższe warstwy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>noble</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnəʊbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>szlachetny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>wspaniały</trans>
+        <trans>imponujący</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>szlachcic</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nobleman</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊbəlmən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>szlachcic</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nobody</spl>
+  </headword>
+  <hwinfo>
+    <pos>Pron</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊbədɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nikt</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nocturnal</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>nɒkˈtɜ:nəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nocny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nod</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nɒd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>skinąć głową</trans>
+        <trans>skinąć</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>wskazywać głową</trans>
+        <trans>wskazywać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>kłaniać się</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>chylić się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>skinienie głową</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V Phras</pos>
+      <variant>
+        <spl>nod off</spl>
+      </variant>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>drzemać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>node</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nəʊd</phonetic>
+    </pronunciation>
+    <label>termin</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>węzeł</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nodule</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɒdju:l</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>guzek</trans>
+        <trans>węzeł</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>noise</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɔɪz</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dźwięk</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>hałas</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>komp</label>
+      </senseinfo>
+      <subsense>
+        <trans>szum</trans>
+        <trans>zakłócenia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>noiseless</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɔɪzlɪs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezgłośny</trans>
+        <trans>cichy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>noisy</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɔɪzɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>hałaśliwy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nomad</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊmæd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nomad</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nomadic</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>nəʊˈmædɪk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nomadyczny</trans>
+        <trans>wędrowny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>no-man's land</spl>
+  </headword>
+  <hwinfo>
+    <pos>N Comp</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊmænzlænd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ziemia niczyja</trans>
+        <trans>pogranicze</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nominate</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈnɒmɪneɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>mianować</trans>
+        <preposition>
+          <prepsource>for</prepsource>
+          <preptarget>na</preptarget>
+          <prepsource>to</prepsource>
+          <preptarget>do</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nomination</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌnɒmɪˈneɪʃən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nominacja</trans>
+        <preposition>
+          <prepsource>for</prepsource>
+          <preptarget>na</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>mianowanie</trans>
+        <preposition>
+          <prepsource>to</prepsource>
+          <preptarget>do</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nominee</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌnɒmɪˈni:</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nominat</trans>
+        <trans>elekt</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>non-alcoholic</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌnɒnælkəˈhɒlɪk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>bezalkoholowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nonchalant</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɒnʃələnt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nonszalancki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>noncommittal</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌnɒnkəˈmɪtəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wymijający</trans>
+        <trans>pełen rezerwy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nondescript</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɒndɪskrɪpt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieokreślonego rodzaju</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>none</spl>
+  </headword>
+  <hwinfo>
+    <pos>Pron</pos>
+    <pronunciation>
+      <phonetic>nʌn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>żaden</trans>
+        <trans>ani jeden</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>none but</idiom>
+        <idarex>:none :but</idarex>
+        <trans>tylko</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <idiom>sb will have none of sth</idiom>
+        <idarex>NPRO will V: :have :none :of</idarex>
+        <trans>ktoś nie będzie znosił czegoś</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nonentity</spl>
+  </headword>
+  <hwinfo>
+    <pos>Pron</pos>
+    <pronunciation>
+      <phonetic>nɒnˈentɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nikt ważny</trans>
+        <trans>nikt</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nonetheless</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˌnʌnðəˈles</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <senseinfo>
+        <label>form</label>
+      </senseinfo>
+      <subsense>
+        <trans>mimo to</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>non-event</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌnɒnɪˈvent</phonetic>
+    </pronunciation>
+    <label>nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nic ciekawego</trans>
+        <trans>żadne wydarzenie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>non-existent</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌnɒnɪgˈzɪstənt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nieistniejący</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>non-fiction</spl>
+  </headword>
+  <hwinfo>
+    <pos>N Comp</pos>
+    <pronunciation>
+      <phonetic>ˌnɒnˈfɪkʃən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>literatura faktu</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nonplussed</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌnɒnˈplʌst</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zakłopotany</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nonsense</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɒnsəns</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nonsens</trans>
+        <trans>bzdura</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>głupstwa</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>make (a) nonsense of sth</idiom>
+        <idarex>make V: (:a) :nonsense :of NP</idarex>
+        <trans>doprowadzać coś do absurdu</trans>
+        <trans>czynić coś bezsensownym</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nonsensical</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>nɒnˈsensɪkəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nonsensowny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>non-smoker</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌnɒnˈsməʊkə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niepalący</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>non-starter</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌnɒnˈstɑ:tə</phonetic>
+    </pronunciation>
+    <label><lang>BR</lang> nieform</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niewypał</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>non-violent</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌnɒnˈvaɪələnt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pokojowy</trans>
+        <trans>bez przemocy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>noodles</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnu:dəlz</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>makaron nitki</trans>
+        <trans>makaron</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nook</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nu:k</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>kąt</trans>
+        <trans>kącik</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>noon</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nu:n</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>południe</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>no-one</spl>
+  </headword>
+  <hwinfo>
+    <pos>Pron</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊwʌn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nikt</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>noose</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nu:s</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pętla</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nor</spl>
+  </headword>
+  <hwinfo>
+    <pos>Conj</pos>
+    <pronunciation>
+      <phonetic>nɔ:</phonetic>
+    </pronunciation>
+    <label>GRAM</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>też nie</trans>
+      </subsense>
+      <subsense>
+        <example>I don't like it -- nor do I</example>
+        <trans>nie podoba mi się to -- mnie też nie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>neither ... nor ...</idiom>
+        <idarex>:neither NP :nor NP</idarex>
+        <trans>ani ..., ani ...</trans>
+      </subsense>
+      <subsense>
+        <example>neither he nor she</example>
+        <trans>ani on, ani ona</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>norm</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɔ:m</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>norma</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>normal</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɔ:məl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zwyczajny</trans>
+        <trans>normalny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>normality</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɔ:ˈmælɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>normalność</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>normally</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈnɔ:məlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>normalnie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>zazwyczaj</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>north</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nɔ:θ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <variant>
+          <spl>the North</spl>
+        </variant>
+      </senseinfo>
+      <subsense>
+        <trans>północ</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>na północ</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>północny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>north-east</spl>
+    <spl>North-East</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌnɔ:θˈi:st</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>północno-wschodni</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>na północny wschód</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>to the north-east</idiom>
+        <idarex>:to :the :north-east</idarex>
+        <trans>na północnym wschodzie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>north-eastern</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌnɔ:θˈi:stən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>północno-wschodni</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>northerly</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɔ:ðəlɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>północny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>northern</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɔ:ðən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>północny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>northward</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnɔ:θwəd</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>na północ</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>północny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>north-west</spl>
+    <spl>North-West</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌnɔ:θˈwest</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>północno-zachodni</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adv</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>na północny zachód</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>to the north-west</idiom>
+        <idarex>:to :the :north-west</idarex>
+        <trans>na północnym zachodzie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>north-western</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˌnɔ:θˈwestən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>północno-zachodni</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Norway</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɔ:weɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Norwegia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Norwegian</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nɔ:ˈwi:ʤən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>norweski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>Norweg</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nos.</spl>
+  </headword>
+  <hwinfo>
+    <xr>
+      <xrentry>numbers</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>numery</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nosebleed</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊzbli:d</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>krwotok z nosa</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nosedive</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnəʊzdaɪv</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nurkować</trans>
+        <trans>pikować</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>spadać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nurkowanie</trans>
+        <trans>pikowanie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>gwałtowne spadanie</trans>
+        <trans>spadanie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nosey</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊzɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wścibski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nostalgia</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɒsˈtælʤɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nostalgia</trans>
+        <preposition>
+          <prepsource>for</prepsource>
+          <preptarget>za</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nostalgic</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>nɒsˈtælʤɪk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nostalgiczny</trans>
+        <trans>cierpiący na nostalgię</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nostril</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɒstrɪl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nozdrza</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nosy</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊzɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>wścibski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>notable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊtəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>godny uwagi</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>notably</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊtəblɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>szczególnie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>w widoczny sposób</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>notarial</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>nəʊˈtærɪal</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>notarialny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>notary</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <variant>
+      <spl>notary public</spl>
+    </variant>
+    <pronunciation>
+      <phonetic>ˈnəʊtərɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>notariusz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>notation</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nəʊˈteɪʃən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zapis</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>notch</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nɒʧ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nacięcie</trans>
+        <trans>szczerba</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>stopień</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nacinać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V Phras</pos>
+      <variant>
+        <spl>notch up</spl>
+      </variant>
+      <label>nieform</label>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zapisywać na swoje konto</trans>
+        <trans>osiągać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>note</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nəʊt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>notatka</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>służbowa</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>nota</trans>
+        <trans>uwaga</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>urzędowe</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>pismo</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>muz</label>
+      </senseinfo>
+      <subsense>
+        <trans>nuta</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>głosu</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>ton</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>banknot</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>w książce</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>przypis</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <indicator>fakt</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>zauważać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <variant>
+          <spl>note down</spl>
+        </variant>
+        <indicator>wykład</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>notować</trans>
+        <trans>zapisywać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>take note of sth</idiom>
+        <idarex>take V: :note :of</idarex>
+        <trans>zauważać coś</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>notebook</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊtbʊk</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>notes</trans>
+        <trans>notatnik</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>noted</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊtɪd</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>znany</trans>
+        <preposition>
+          <prepsource>for</prepsource>
+          <preptarget>z</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>notepaper</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊtpeɪpə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>papier listowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>noteworthy</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊtwɜ:ðɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>godny uwagi</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>notice</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnəʊtɪs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zauważać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <indicator>o fakcie</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>ogłoszenie</trans>
+        <trans>zawiadomienie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>kogoś o czymś</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>uprzedzenie</trans>
+        <trans>upomnienie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>z pracy</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>rezygnacja</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>A brings sth to B's notice</idiom>
+        <idarex>bring V: NP :to PROPOSS :notice</idarex>
+        <trans>A zwraca uwagę B na coś</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>sth comes to sb's notice</idiom>
+        <idarex>NP come V: :to PROPOSS :notice</idarex>
+        <trans>ktoś coś zauważa</trans>
+        <trans>coś dochodzi do czyjejś uwagi</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>take notice of sth</idiom>
+        <idarex>take V: :notice :of</idarex>
+        <trans>zauważać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>sth escapes/avoids sb's notice</idiom>
+        <idarex>[escape V: | avoid V:] PROPOSS :notice</idarex>
+        <trans>coś umyka czyjejś uwadze</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>at short notice</idiom>
+        <idarex>:at :short :notice</idarex>
+        <trans>w ciągu krótkiego czasu</trans>
+        <trans>na krótki termin</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>until further notice</idiom>
+        <idarex>:until :further :notice</idarex>
+        <trans>aż do odwołania</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>give sb a notice</idiom>
+        <idarex>give V: NPRO :a :notice</idarex>
+        <trans>dać komuś wypowiedzenie</trans>
+        <trans>wypowiedzieć komuś pracę</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>hand in one's notice</idiom>
+        <idarex>hand V: :in PROPOSS :notice</idarex>
+        <trans>złożyć wypowiedzenie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>without notice</idiom>
+        <idarex>:without :notice</idarex>
+        <trans>bez uprzedzenia</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>give sb 3 days' notice</idiom>
+        <idarex>give V: NPRO NUM :days :'s :notice</idarex>
+        <trans>uprzedzić kogoś 3 dni naprzód</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>noticeable</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊtɪsəbəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>widoczny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>noticeboard</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊtɪsbɔ:d</phonetic>
+    </pronunciation>
+    <label>
+      <lang>BR</lang>
+    </label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>tablica ogłoszeń</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>notification</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌnəʊtɪfɪˈkeɪʃən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zawiadomienie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>notify</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊtɪfaɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zawiadamiać</trans>
+        <preposition>
+          <prepsource>of</prepsource>
+          <preptarget>o</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>notion</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊʃən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pojęcie</trans>
+        <trans>opinia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>notoriety</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˌnəʊtəˈraɪətɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rozgłos</trans>
+        <trans>notoryczność</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>notorious</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>nəˈtɔ:rɪəs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>notoryczny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>o złej reputacji</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>be notorious for sth</idiom>
+        <idarex>be V: :notorious :for</idarex>
+        <trans>być znanym z czegoś godnego nagany</trans>
+        <trans>być znanym z czegoś</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>notwithstanding</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˌnɒtwɪθˈstændɪŋ</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pomimo</trans>
+        <trans>mimo to</trans>
+        <trans>jednakże</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nought</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nɔ:t</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zero</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>noun</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>naʊn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rzeczownik</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nourish</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈnʌrɪʃ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>odżywiać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>lit</label>
+      </senseinfo>
+      <subsense>
+        <trans>żywić</trans>
+        <trans>piastować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nourishing</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnʌrɪʃɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>odżywczy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nourishment</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnʌrɪʃmənt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>pożywienie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>Nov.</spl>
+  </headword>
+  <hwinfo>
+    <xr>
+      <xrentry>November</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>listopad</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>novel</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnɒvəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>powieść</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>nowatorski</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>novelist</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɒvəlɪst</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>powieściopisarz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>novelty</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɒvəltɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nowość</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nowatorstwo</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nowinka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>November</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nəʊˈvembə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>listopad</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>novice</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɒvɪs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nowicjusz</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nowadays</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈnaʊədeɪz</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>obecnie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nowhere</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adv</pos>
+    <pronunciation>
+      <phonetic>ˈnəʊweə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nigdzie</trans>
+        <trans>donikąd</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>*from/out of* nowhere</idiom>
+        <idarex>[:from | :out% of] :nowhere</idarex>
+        <trans>znikąd</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>sth is getting (sb) nowhere</idiom>
+        <idarex>NPRO be V: :getting (NPRO) :nowhere</idarex>
+        <trans>coś prowadzi kogoś donikąd</trans>
+        <trans>coś prowadzi donikąd</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>noxious</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnɒkʃəs</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>szkodliwy</trans>
+        <trans>trujący</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nozzle</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnɒzəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ssawka</trans>
+        <trans>dysza</trans>
+        <trans>wylot</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nr</spl>
+  </headword>
+  <hwinfo>
+    <xr>
+      <xrentry>near</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>blisko</trans>
+        <trans>w pobliżu</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>NT</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>the New Testament</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Nowy Testament</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nuance</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnju:ɑ:ns</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>niuans</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nuclear</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnju:klɪə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nuklearny</trans>
+        <trans>atomowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nucleus</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnju:klɪəs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>jądro</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>centrum</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nude</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nju:d</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nagi</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>akt</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>in the nude</idiom>
+        <idarex>:in :the :nude</idarex>
+        <trans>nago</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nudge</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nʌʤ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>trącać się</trans>
+        <trans>poszturchiwać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>przekonywać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>szturchaniec</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>przekonywanie</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nudity</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnju:dɪtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nagość</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nugget</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnʌgɪt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>rodzynek</trans>
+        <trans>interesująca wiadomość</trans>
+        <trans>wiadomość</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>bryłka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nuisance</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnju:səns</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>utrapienie</trans>
+        <trans>coś nieznośnego</trans>
+      </subsense>
+      <subsense>
+        <example>this wind is a nuisance</example>
+        <trans>strasznie przykry ten wiatr</trans>
+      </subsense>
+      <subsense>
+        <example>he can be a nuisance</example>
+        <trans>potrafi się naprzykrzyć</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>make a nuisance of oneself</idiom>
+        <idarex>make V: :a :nuisance :of PROREFL</idarex>
+        <trans>naprzykrzać się</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>what a nuisance!</idiom>
+        <idarex>:what :a :nuisance</idarex>
+        <trans>a niech to!</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>null</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>nʌl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zero</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>komp</label>
+      </senseinfo>
+      <subsense>
+        <trans>pusty</trans>
+        <trans>bez znaczenia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>numb</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nʌm</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>zdrętwiały</trans>
+        <preposition>
+          <prepsource>with</prepsource>
+          <preptarget>od</preptarget>
+          <preptarget>z powodu</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>skostniały</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>kostnieć</trans>
+        <trans>powodować kostnienie</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>paraliżować</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>number</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnʌmbə</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>numer</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>liczba</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>ilość</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <senseinfo>
+        <indicator>mieć liczbę</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>liczyć</trans>
+      </subsense>
+      <subsense>
+        <example>the group numbered 5 people</example>
+        <trans>grupa liczyła 5 osób</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>np. strony</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>numerować</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>zajmować pozycję</indicator>
+      </senseinfo>
+      <subsense>
+        <trans>zaliczać się</trans>
+        <preposition>
+          <prepsource>among</prepsource>
+          <preptarget>między</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <idiom>a number of</idiom>
+        <idarex>:a :number :of :people</idarex>
+        <trans>wiele</trans>
+        <trans>wielu</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <indicator>przez telefon</indicator>
+      </senseinfo>
+      <subsense>
+        <idiom>``Wrong number''</idiom>
+        <idarex>:wrong :number</idarex>
+        <trans>,,Pomyłka''</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>number plate</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈnʌmbəpleɪt</phonetic>
+      </pronunciation>
+      <label>
+        <lang>BR</lang>
+      </label>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>tablica rejestracyjna</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>numeral</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnju:mərəl</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>liczbowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>liczebnik</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>numerate</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnju:mərət</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <idiom>be numerate</idiom>
+        <idarex>be V: :numerate</idarex>
+        <trans>umieć liczyć</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>numerical</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>nju:ˈmerɪkəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>liczbowy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>numerous</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnju:mərəs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>liczny</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>liczebny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nun</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nʌn</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>zakonnica</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nurse</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>nɜ:s</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>pielęgniarka</trans>
+        <trans>siostra</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>V</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>pielęgnować</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>żywić</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nursery</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnɜ:sərɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>przedszkole</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>szkółka leśna</trans>
+        <trans>szkółka</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>przedszkolny</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>nursery rhyme</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈnɜ:sərɪ raɪm</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>wierszyk dziecięcy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>nursery school</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈnɜ:sərɪ sku:l</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>przedszkole</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nursing</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnɜ:sɪŋ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <senseinfo>
+      <pos>N</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>pielęgniarstwo</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>Adj</pos>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>karmiący piersią</trans>
+        <trans>karmiący</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+  <syntactic>
+    <senseinfo>
+      <pos>N Comp</pos>
+      <variant>
+        <spl>nursing home</spl>
+      </variant>
+      <pronunciation>
+        <phonetic>ˈnɜ:sɪŋ həʊm</phonetic>
+      </pronunciation>
+    </senseinfo>
+    <semantic>
+      <subsense>
+        <trans>prywatny szpital</trans>
+        <trans>szpital</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nurture</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈnɜ:ʧə</phonetic>
+    </pronunciation>
+    <label>form</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>doglądać</trans>
+        <trans>wychowywać</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>dopomagać</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nut</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nʌt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>orzech</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <subsense>
+        <trans>nakrętka</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>świr</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <idiom>sb is *nuts/off his nut*</idiom>
+        <idarex>NPRO be V: [:nuts | :off PROPOSS :nut]</idarex>
+        <trans>komuś szajba odbija</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nutcase</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnʌtkeɪs</phonetic>
+    </pronunciation>
+    <label>nieform przest</label>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>szajbus</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nutcracker</spl>
+    <spl>nutcrackers</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnʌtkrækə(z)</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>dziadek do orzechów</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nutmeg</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnʌtmeg</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>gałka muszkatołowa</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nutrient</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnju:trɪənt</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>substancja odżywcza</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nutrition</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>nju:ˈtrɪʃən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>odżywianie się</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nutritious</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>nju:ˈtrɪʃəs</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>odżywczy</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nutshell</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˈnʌʧel</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <idiom>in a nutshell</idiom>
+        <idarex>:in :a :nutshell</idarex>
+        <trans>w kilku słowach</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nutty</spl>
+  </headword>
+  <hwinfo>
+    <pos>Adj</pos>
+    <pronunciation>
+      <phonetic>ˈnʌtɪ</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>orzechowy</trans>
+      </subsense>
+    </semantic>
+    <semantic>
+      <senseinfo>
+        <label>nieform</label>
+      </senseinfo>
+      <subsense>
+        <trans>wariacki</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nuzzle</spl>
+  </headword>
+  <hwinfo>
+    <pos>V</pos>
+    <pronunciation>
+      <phonetic>ˈnʌzəl</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>ocierać się</trans>
+        <preposition>
+          <prepsource>sb</prepsource>
+          <preptarget>o kogoś</preptarget>
+        </preposition>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>NW</spl>
+  </headword>
+  <hwinfo>
+    <xr>
+      <xrentry>north-west</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>płn.-zach.</trans>
+        <trans>północno-zachodni</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>N.Y.</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>New York</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Nowy Jork</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>N.Y.C.</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>New York City</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>miasto Nowy Jork</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>nylon</spl>
+  </headword>
+  <hwinfo>
+    <pos>N</pos>
+    <pronunciation>
+      <phonetic>ˈnaɪlən</phonetic>
+    </pronunciation>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>nylon</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+<entry>
+  <headword>
+    <spl>N.Z.</spl>
+  </headword>
+  <hwinfo>
+    <pronunciation>
+      <phonetic>ˌ$⋅$ˈ$⋅$</phonetic>
+    </pronunciation>
+    <xr>
+      <xrentry>New Zealand</xrentry>
+    </xr>
+  </hwinfo>
+  <syntactic>
+    <semantic>
+      <subsense>
+        <trans>Nowa Zelandia</trans>
+      </subsense>
+    </semantic>
+  </syntactic>
+</entry>
+</xbdict>

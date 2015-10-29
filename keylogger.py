@@ -201,7 +201,7 @@ def fetch_keys():
 
 
 def log(done, callback, sleep_interval=.005):
-    while not done():
+    while True:
         sleep(sleep_interval)
         changed, modifiers, keys = fetch_keys()
         if changed: callback(time(), modifiers, keys)
