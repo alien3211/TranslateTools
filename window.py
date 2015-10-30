@@ -4,11 +4,8 @@ import pygtk
 pygtk.require('2.0')
 import gtk
 
-from keylogger import *
 import gobject
 gobject.threads_init()
-
-import translate
 
 class Window:
     def _delete_event(self, widget, event, data=None):
@@ -83,18 +80,5 @@ class Window:
     def main(self):
         gtk.main()
 
-if __name__ == '__main__':
-    now = time()
-    done = lambda: time() > now + 60
 
-    def start_window(t, modifiers, keys):
-        if (modifiers["left alt"] == True) and (keys == 'q'):
-            win = Window()
-            trans = gtk.clipboard_get().wait_for_text().replace('\n', ' ')
-            trans, l_trans = translate.Translate(trans, 'pl')
-            win.set_data(trans, l_trans)
-            win.main()
-
-    log(done, start_window)
-
-#[x if ((i+1) % 3) != 0 else x + '\n' for i,x in enumerate(c)] 
+#dzielenie w pionie [x if ((i+1) % 3) != 0 else x + '\n' for i,x in enumerate(c)] 
