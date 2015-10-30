@@ -3,24 +3,36 @@
 import getopt
 
 from keylogger import *
-import gobject
 
 import translate
 
 from window import *
 
+list_keys = ['', 'left_shift', 'right_shift', 'left_ctrl', 'right_ctrl', 'left_alt', 'right_alt']
+
+glkey  = 'left_alt'
+glchar = 'q'
+
+
 def usage(res):
     out = ("""Usage:
-  ./window.py <OPTS>
+  ./translateTool.py <OPTS>
   -h         | --help           this help
   -f <from>  | --from <from>    original language
   -t <to>    | --to <to>        destination language
   -l         | --list           list language
+  -k <key>   | --key <key>      list language
 
   Example: 
-  ./window.py -f en -t pl
-  """)
+  ./translateTool.py -f en -t pl
+
+  Example change key:
+  [key+char] default 'left_alt+q'
+  ./translateTool.py -f en -t pl -k 'left_alt+q'
+
+  All key: """)
     print out
+    print '\n  '.join(list_keys)
     sys.exit(res)
 
 def list_language():
@@ -29,12 +41,24 @@ def list_language():
             l = line.split(' ')
             print "{:<9}{}".format(l[0], (' '.join(l[1:])).replace('\n', ''))
 
+def parseKey(arg):
+    global glkey, glchar
+
+    arg = arg.split('+')
+    if len(arg) == 2:
+        if arg[0] in list_keys:
+            glkey, glchar = arg
+        else:
+            usage(2)
+    else:
+        usage(2)
+
 
 def parseArgs():
     global flang, tlang
 
     try:
-        opts, args = getopt.getopt(sys.argv[1:], "hf:t:l", ["help", "from=", "to=", "list"])
+        opts, args = getopt.getopt(sys.argv[1:], "hf:t:lk:", ["help", "from=", "to=", "list","key="])
     except getopt.GetoptError, err:
         usage(2)
 
@@ -52,9 +76,11 @@ def parseArgs():
         elif opt in ("-l", "--list"):
             list_language()
             sys.exit(0)
+        elif opt in ("-k", "--key"):
+            parseKey(arg)
 
 def start_window(t, modifiers, keys):
-    if (modifiers["left alt"] == True) and (keys == 'q'):
+    if (modifiers[glkey] == True) and (keys == glchar):
         win = Window()
         trans = gtk.clipboard_get().wait_for_text().replace('\n', ' ')
         trans, l_trans = translate.Translate(trans, tlang, flang)
