@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#-*- coding: utf-8 -*-
 
 import getopt
 
@@ -84,6 +85,8 @@ def start_window(t, modifiers, keys):
         win = Window()
         trans = gtk.clipboard_get().wait_for_text().replace('\n', ' ')
         trans, l_trans = translate.Translate(trans, tlang, flang)
+        print l_trans
+        print set(l_trans)
         win.set_data(trans, l_trans)
         win.main()
 

@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#-*- coding: utf-8 -*-
 
 
 from GoogleTranslate import translate
@@ -21,7 +22,7 @@ def Translate(words, to_language="auto", language="auto"):
                             prev = child #if no example: 
                             for line in node.iter():
                                 if line.tag == 'trans' and prev.tag != 'example' and prev.tag != 'idarex': #if no example: 
-                                    trans.append(line.text)
+                                    trans.append(line.text.encode('UTF8'))
                                 prev = line # if no example: 
                             return [raw_words, set(trans)]
     return [raw_words, trans]
