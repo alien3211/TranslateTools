@@ -82,11 +82,13 @@ def parseArgs():
 
 def start_window(t, modifiers, keys):
     if (modifiers[glkey] == True) and (keys == glchar):
-        win = Window()
-        trans = gtk.clipboard_get().wait_for_text().replace('\n', ' ')
+	clipboard = gtk.clipboard_get()
+        trans = str(clipboard.wait_for_text()).replace('\n', ' ')
+	trans = trans[:255]
         trans, l_trans = translate.Translate(trans, tlang, flang)
-        print l_trans
-        print set(l_trans)
+	clipboard.set_text(list(l_trans)[0])
+	clipboard.store()
+        win = Window()
         win.set_data(trans, l_trans)
         win.main()
 

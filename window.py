@@ -69,7 +69,7 @@ class Window:
         fix = gtk.Fixed()
         self.tLabelSelect = gtk.Label("None")
         fix.put(self.tLabelSelect, 10 , 10)
-        self.tLabelTrans = gtk.Label("None1")
+        self.tLabelTrans = gtk.Label("None")
         fix.put(self.tLabelTrans, 50 , 50)
 
         self.window.add(fix)
