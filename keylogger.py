@@ -25,7 +25,7 @@
 
 
 import sys
-from time import sleep, time
+from time import sleep, time, ctime
 import ctypes as ct
 from ctypes.util import find_library
 
@@ -204,7 +204,9 @@ def log(done, callback, sleep_interval=.005):
     while True:
         sleep(sleep_interval)
         changed, modifiers, keys = fetch_keys()
-        if changed: callback(time(), modifiers, keys)
+        if changed: 
+	    callback(time(), modifiers, keys)
+	    print "%r   %r   %r" % (ctime(), keys, modifiers)
 
 
 
