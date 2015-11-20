@@ -20,10 +20,10 @@ def Translate(words, to_language="auto", language="auto"):
 		for child in node.getiterator():
 		    if child.tag == 'spl':
 			if child.text == words:
-			    prev = child #if no example: 
+			    prev = child #if no example:
 			    for line in node.getiterator():
-				if line.tag == 'trans' and prev.tag != 'example' and prev.tag != 'idarex': #if no example: 
+				if line.tag == 'trans' and prev.tag != 'example' and prev.tag != 'idarex': #if no example:
 				    trans.append(line.text.encode('UTF8'))
-				prev = line # if no example: 
+				prev = line # if no example:
 			    return [raw_words, set(trans)]
     return [raw_words, trans]

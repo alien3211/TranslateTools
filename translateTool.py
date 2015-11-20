@@ -32,7 +32,7 @@ def usage(res):
   -c <time>  | --count <time>   long the active window (s)
   -m <multi> | --move <multi>   position in window
 
-  Example: 
+  Example:
   ./translateTool.py -f en -t pl
 
   Example change key:
@@ -124,7 +124,7 @@ def start_window(t, modifiers, keys):
         win = Window(clang, glxx, glyy, trans, l_trans)
         win.main()
 
-	    
+
 
 if __name__ == '__main__':
     parseArgs()

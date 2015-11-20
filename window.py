@@ -18,7 +18,7 @@ class Window:
     def __press_event(self, window, event):
         self.g = 1
 
-    #use keyloger 
+    #use keyloger
     def __key_press_event(self, window, event):
         keyname = gtk.gdk.keyval_name(event.keyval)
         self.tLabelTrans.set_text('key %s (%d) was pressed' % (keyname, event.keyval))
@@ -79,7 +79,7 @@ class Window:
         self.window.connect('delete_event', self.__delete_event)
         self.window.connect('destroy', self.__destroy)
         self.window.connect('button-press-event', self.__press_event)
-        #use keyloger 
+        #use keyloger
         #self.window.connect('key_press_event', self.__key_press_event)
 
         self.window.set_size_request(300,100)

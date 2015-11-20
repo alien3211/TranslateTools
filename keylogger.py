@@ -159,7 +159,7 @@ def fetch_keys():
     modifier_state = {}
     for mod, (i, byte) in modifiers.iteritems():
         modifier_state[mod] = bool(ord(keypresses_raw[i]) & byte)
-    
+
     # shift pressed?
     shift = 0
     for i, byte in shift_keys:
@@ -181,7 +181,7 @@ def fetch_keys():
                     if isinstance(key, tuple): key = key[shift or caps_lock_state]
                     pressed.append(key)
 
-    
+
     tmp = pressed
     pressed = list(set(pressed).difference(last_pressed))
     state_changed = tmp != last_pressed and (pressed or last_pressed_adjusted)
@@ -204,15 +204,15 @@ def log(done, callback, sleep_interval=.005):
     while True:
         sleep(sleep_interval)
         changed, modifiers, keys = fetch_keys()
-        if changed: 
+        if changed:
 	    callback(time(), modifiers, keys)
 
 
 if __name__ == "__main__":
     now = time()
     done = lambda: time() > now + 60
-    def print_keys(t, modifiers, keys): 
-        if keys == 'w': 
+    def print_keys(t, modifiers, keys):
+        if keys == 'w':
             print "%.2f   %r   %r" % (t, keys, modifiers)
 
     log(done, print_keys)
