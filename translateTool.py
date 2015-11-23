@@ -84,10 +84,10 @@ def parseKey(arg):
         usage(2)
 
 def parseMove(arg):
+    global glxx, glyy
     glxx, glyy = arg.split(':')
 
 def parseArgs():
-    global glxx, glyy
     global flang, tlang, clang
 
     try:
