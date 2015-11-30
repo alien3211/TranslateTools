@@ -3,7 +3,7 @@
 
 import getopt
 
-from keylogger import *
+from keycatch import *
 
 import translate
 

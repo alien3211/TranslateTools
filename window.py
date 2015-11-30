@@ -26,10 +26,11 @@ class Window:
     def __set_data(self, translate, result):
 	countTrans, translate = self.__split_string(translate, 38)
         self.tLabelSelect.set_text(translate)
-	_, result = self.__split_string('\n'.join(map(str,result)), 32)
+	result = [self.__split_string(x, 32)[1] for x in result]
+	result = '\n'.join(map(str,result))
 	countRes = list(result).count('\n')
 
-        self.window.set_size_request(300, 100 + 15 * (countTrans + countRes - 1))
+        self.window.set_size_request(300, 100 + 16 * (countTrans + countRes ))
 
         self.tLabelTrans.set_text(result)
 
